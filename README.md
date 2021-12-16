@@ -1,0 +1,2 @@
+# wakfu-data
+game wakfu
