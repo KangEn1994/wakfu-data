@@ -1,0 +1,7134 @@
+[
+  {
+    "id": "5314",
+    "name": "Cap'n Atcha",
+    "family_name": "",
+    "level": "Lvl 0 - 1",
+    "png_path": "https://static.ankama.com/wakfu/ng/img/defaults/default_70_70.w133h.png",
+    "catch_boo": "No",
+    "characteristics": {
+      "health_points": "10000",
+      "initiative": "10000",
+      "block": "4"
+    },
+    "resistances": {
+      "water": {
+        "attack": "0%",
+        "defense": "0%"
+      },
+      "earth": {
+        "attack": "0%",
+        "defense": "0%"
+      },
+      "air": {
+        "attack": "0%",
+        "defense": "0%"
+      },
+      "fire": {
+        "attack": "0%",
+        "defense": "0%"
+      }
+    }
+  },
+  {
+    "id": "4539",
+    "name": "Ogrest's Tear",
+    "family_name": "Ultimate Bosses",
+    "level": "Lvl 0 - 1",
+    "png_path": "https://static.ankama.com/wakfu/ng/img/defaults/default_70_70.w133h.png",
+    "catch_boo": "No",
+    "characteristics": {
+      "health_points": "9999"
+    },
+    "resistances": {
+      "water": {
+        "attack": "0%",
+        "defense": "0%"
+      },
+      "earth": {
+        "attack": "0%",
+        "defense": "0%"
+      },
+      "air": {
+        "attack": "0%",
+        "defense": "0%"
+      },
+      "fire": {
+        "attack": "0%",
+        "defense": "0%"
+      }
+    },
+    "drops": [
+      {
+        "drop_id": "24029",
+        "percent": "25%"
+      }
+    ]
+  },
+  {
+    "id": "5315",
+    "name": "Cap'n Atcha",
+    "family_name": "",
+    "level": "Lvl 0 - 1",
+    "png_path": "https://static.ankama.com/wakfu/ng/img/defaults/default_70_70.w133h.png",
+    "catch_boo": "No",
+    "characteristics": {
+      "health_points": "10000",
+      "initiative": "10000",
+      "block": "4"
+    },
+    "resistances": {
+      "water": {
+        "attack": "0%",
+        "defense": "0%"
+      },
+      "earth": {
+        "attack": "0%",
+        "defense": "0%"
+      },
+      "air": {
+        "attack": "0%",
+        "defense": "0%"
+      },
+      "fire": {
+        "attack": "0%",
+        "defense": "0%"
+      }
+    }
+  },
+  {
+    "id": "3871",
+    "name": "LeChouque",
+    "family_name": "Ultimate Bosses",
+    "level": "Lvl 0 - 1",
+    "png_path": "https://static.ankama.com/wakfu/ng/img/defaults/default_70_70.w133h.png",
+    "catch_boo": "No",
+    "characteristics": {
+      "health_points": "9999999",
+      "action_points": "55",
+      "mp": "10",
+      "wakfu_points": "4",
+      "initiative": "1",
+      "block": "4"
+    },
+    "resistances": {
+      "water": {
+        "attack": "0%",
+        "defense": "0%"
+      },
+      "earth": {
+        "attack": "0%",
+        "defense": "0%"
+      },
+      "air": {
+        "attack": "0%",
+        "defense": "0%"
+      },
+      "fire": {
+        "attack": "1%",
+        "defense": "0%"
+      }
+    },
+    "spells": [
+      {
+        "name": "Final Pact"
+      },
+      {
+        "name": "Incendiary Pact"
+      },
+      {
+        "name": "Interruption Pact"
+      },
+      {
+        "name": "Demolition Pact"
+      },
+      {
+        "name": "Hurricane"
+      },
+      {
+        "name": "Explosion"
+      },
+      {
+        "name": "Ruckus"
+      },
+      {
+        "name": "Growl"
+      }
+    ]
+  },
+  {
+    "id": "4885",
+    "name": "Father Kwismas",
+    "family_name": "Events",
+    "level": "Lvl 0 - 1",
+    "png_path": "https://static.ankama.com/wakfu/ng/img/defaults/default_70_70.w133h.png",
+    "catch_boo": "No",
+    "characteristics": {
+      "health_points": "1",
+      "action_points": "6",
+      "mp": "3",
+      "wakfu_points": "4",
+      "initiative": "1",
+      "block": "4"
+    },
+    "resistances": {
+      "water": {
+        "attack": "0%",
+        "defense": "0%"
+      },
+      "earth": {
+        "attack": "0%",
+        "defense": "0%"
+      },
+      "air": {
+        "attack": "0%",
+        "defense": "0%"
+      },
+      "fire": {
+        "attack": "1%",
+        "defense": "0%"
+      }
+    }
+  },
+  {
+    "id": "4194",
+    "name": "Fragmented Mimic",
+    "family_name": "",
+    "level": "Lvl 1 - 230",
+    "png_path": "https://static.ankama.com/wakfu/ng/img/defaults/default_70_70.w133h.png",
+    "catch_boo": "No",
+    "characteristics": {
+      "health_points": "1",
+      "mp": "7.58"
+    },
+    "resistances": {
+      "water": {
+        "attack": "0%",
+        "defense": "0%"
+      },
+      "earth": {
+        "attack": "0%",
+        "defense": "0%"
+      },
+      "air": {
+        "attack": "0%",
+        "defense": "0%"
+      },
+      "fire": {
+        "attack": "0%",
+        "defense": "0%"
+      }
+    },
+    "drops": [
+      {
+        "drop_id": "12325",
+        "percent": "100%"
+      },
+      {
+        "drop_id": "18001",
+        "percent": "5%"
+      },
+      {
+        "drop_id": "18002",
+        "percent": "5%"
+      },
+      {
+        "drop_id": "18666",
+        "percent": "5%"
+      },
+      {
+        "drop_id": "18647",
+        "percent": "5%"
+      },
+      {
+        "drop_id": "18000",
+        "percent": "5%"
+      },
+      {
+        "drop_id": "20153",
+        "percent": "5%"
+      },
+      {
+        "drop_id": "19853",
+        "percent": "5%"
+      },
+      {
+        "drop_id": "19163",
+        "percent": "5%"
+      },
+      {
+        "drop_id": "18400",
+        "percent": "5%"
+      },
+      {
+        "drop_id": "18382",
+        "percent": "5%"
+      },
+      {
+        "drop_id": "18003",
+        "percent": "5%"
+      },
+      {
+        "drop_id": "18383",
+        "percent": "5%"
+      },
+      {
+        "drop_id": "19162",
+        "percent": "5%"
+      },
+      {
+        "drop_id": "17929",
+        "percent": "5%"
+      },
+      {
+        "drop_id": "18688",
+        "percent": "5%"
+      }
+    ]
+  },
+  {
+    "id": "4196",
+    "name": "Sweet Mimic",
+    "family_name": "",
+    "level": "Lvl 1 - 230",
+    "png_path": "https://static.ankama.com/wakfu/ng/img/defaults/default_70_70.w133h.png",
+    "catch_boo": "No",
+    "characteristics": {
+      "health_points": "1",
+      "mp": "7.58"
+    },
+    "resistances": {
+      "water": {
+        "attack": "0%",
+        "defense": "0%"
+      },
+      "earth": {
+        "attack": "0%",
+        "defense": "0%"
+      },
+      "air": {
+        "attack": "0%",
+        "defense": "0%"
+      },
+      "fire": {
+        "attack": "0%",
+        "defense": "0%"
+      }
+    },
+    "drops": [
+      {
+        "drop_id": "12325",
+        "percent": "100%"
+      },
+      {
+        "drop_id": "12517",
+        "percent": "10%"
+      },
+      {
+        "drop_id": "12519",
+        "percent": "10%"
+      },
+      {
+        "drop_id": "9748",
+        "percent": "10%"
+      },
+      {
+        "drop_id": "11516",
+        "percent": "10%"
+      },
+      {
+        "drop_id": "12513",
+        "percent": "10%"
+      },
+      {
+        "drop_id": "12518",
+        "percent": "10%"
+      },
+      {
+        "drop_id": "18687",
+        "percent": "10%"
+      },
+      {
+        "drop_id": "18686",
+        "percent": "10%"
+      }
+    ]
+  },
+  {
+    "id": "4958",
+    "name": "Riktus Standard",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 1",
+    "png_path": "https://static.ankama.com/wakfu/ng/img/defaults/default_70_70.w133h.png",
+    "catch_boo": "No",
+    "characteristics": {
+      "health_points": "1",
+      "action_points": "6",
+      "mp": "3"
+    },
+    "resistances": {
+      "water": {
+        "attack": "0%",
+        "defense": "0%"
+      },
+      "earth": {
+        "attack": "0%",
+        "defense": "0%"
+      },
+      "air": {
+        "attack": "0%",
+        "defense": "0%"
+      },
+      "fire": {
+        "attack": "0%",
+        "defense": "0%"
+      }
+    }
+  },
+  {
+    "id": "4985",
+    "name": "Monster Cage",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 1",
+    "png_path": "https://static.ankama.com/wakfu/ng/img/defaults/default_70_70.w133h.png",
+    "catch_boo": "No",
+    "characteristics": {
+      "health_points": "1",
+      "action_points": "6",
+      "mp": "3"
+    },
+    "resistances": {
+      "water": {
+        "attack": "0%",
+        "defense": "0%"
+      },
+      "earth": {
+        "attack": "0%",
+        "defense": "0%"
+      },
+      "air": {
+        "attack": "0%",
+        "defense": "0%"
+      },
+      "fire": {
+        "attack": "0%",
+        "defense": "0%"
+      }
+    }
+  },
+  {
+    "id": "4955",
+    "name": "Dungheap",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 1",
+    "png_path": "https://static.ankama.com/wakfu/ng/img/defaults/default_70_70.w133h.png",
+    "catch_boo": "No",
+    "characteristics": {
+      "health_points": "1",
+      "action_points": "6",
+      "mp": "3"
+    },
+    "resistances": {
+      "water": {
+        "attack": "0%",
+        "defense": "0%"
+      },
+      "earth": {
+        "attack": "0%",
+        "defense": "0%"
+      },
+      "air": {
+        "attack": "0%",
+        "defense": "0%"
+      },
+      "fire": {
+        "attack": "0%",
+        "defense": "0%"
+      }
+    }
+  },
+  {
+    "id": "4975",
+    "name": "Polarized Kralien",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 1",
+    "png_path": "https://static.ankama.com/wakfu/ng/img/defaults/default_70_70.w133h.png",
+    "catch_boo": "No",
+    "characteristics": {
+      "health_points": "1",
+      "action_points": "6",
+      "mp": "3"
+    },
+    "resistances": {
+      "water": {
+        "attack": "0%",
+        "defense": "0%"
+      },
+      "earth": {
+        "attack": "0%",
+        "defense": "0%"
+      },
+      "air": {
+        "attack": "0%",
+        "defense": "0%"
+      },
+      "fire": {
+        "attack": "0%",
+        "defense": "0%"
+      }
+    }
+  },
+  {
+    "id": "4978",
+    "name": "Scarecrobak",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 1",
+    "png_path": "https://static.ankama.com/wakfu/ng/img/defaults/default_70_70.w133h.png",
+    "catch_boo": "No",
+    "characteristics": {
+      "health_points": "1",
+      "action_points": "6",
+      "mp": "3"
+    },
+    "resistances": {
+      "water": {
+        "attack": "0%",
+        "defense": "0%"
+      },
+      "earth": {
+        "attack": "0%",
+        "defense": "0%"
+      },
+      "air": {
+        "attack": "0%",
+        "defense": "0%"
+      },
+      "fire": {
+        "attack": "0%",
+        "defense": "0%"
+      }
+    }
+  },
+  {
+    "id": "4980",
+    "name": "Blue Greedoball",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 1",
+    "png_path": "https://static.ankama.com/wakfu/ng/img/defaults/default_70_70.w133h.png",
+    "catch_boo": "No",
+    "characteristics": {
+      "health_points": "1",
+      "action_points": "6",
+      "mp": "3"
+    },
+    "resistances": {
+      "water": {
+        "attack": "0%",
+        "defense": "0%"
+      },
+      "earth": {
+        "attack": "0%",
+        "defense": "0%"
+      },
+      "air": {
+        "attack": "0%",
+        "defense": "0%"
+      },
+      "fire": {
+        "attack": "0%",
+        "defense": "0%"
+      }
+    }
+  },
+  {
+    "id": "4195",
+    "name": "Domestic Mimic",
+    "family_name": "",
+    "level": "Lvl 1 - 230",
+    "png_path": "https://static.ankama.com/wakfu/ng/img/defaults/default_70_70.w133h.png",
+    "catch_boo": "No",
+    "characteristics": {
+      "health_points": "1",
+      "mp": "7.58"
+    },
+    "resistances": {
+      "water": {
+        "attack": "0%",
+        "defense": "0%"
+      },
+      "earth": {
+        "attack": "0%",
+        "defense": "0%"
+      },
+      "air": {
+        "attack": "0%",
+        "defense": "0%"
+      },
+      "fire": {
+        "attack": "0%",
+        "defense": "0%"
+      }
+    },
+    "drops": [
+      {
+        "drop_id": "12325",
+        "percent": "100%"
+      },
+      {
+        "drop_id": "18378",
+        "percent": "5%"
+      },
+      {
+        "drop_id": "12128",
+        "percent": "2.5%"
+      },
+      {
+        "drop_id": "18376",
+        "percent": "2%"
+      },
+      {
+        "drop_id": "16730",
+        "percent": "1%"
+      },
+      {
+        "drop_id": "15388",
+        "percent": "1%"
+      },
+      {
+        "drop_id": "16719",
+        "percent": "1%"
+      },
+      {
+        "drop_id": "16697",
+        "percent": "1%"
+      },
+      {
+        "drop_id": "14526",
+        "percent": "0.5%"
+      },
+      {
+        "drop_id": "14525",
+        "percent": "0.5%"
+      },
+      {
+        "drop_id": "14527",
+        "percent": "0.5%"
+      },
+      {
+        "drop_id": "14335",
+        "percent": "0.5%"
+      },
+      {
+        "drop_id": "14147",
+        "percent": "0.25%"
+      },
+      {
+        "drop_id": "17021",
+        "percent": "0.25%"
+      },
+      {
+        "drop_id": "15820",
+        "percent": "0.25%"
+      }
+    ]
+  },
+  {
+    "id": "4957",
+    "name": "Round'ope Pot",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 1",
+    "png_path": "https://static.ankama.com/wakfu/ng/img/defaults/default_70_70.w133h.png",
+    "catch_boo": "No",
+    "characteristics": {
+      "health_points": "1",
+      "action_points": "6",
+      "mp": "3"
+    },
+    "resistances": {
+      "water": {
+        "attack": "0%",
+        "defense": "0%"
+      },
+      "earth": {
+        "attack": "0%",
+        "defense": "0%"
+      },
+      "air": {
+        "attack": "0%",
+        "defense": "0%"
+      },
+      "fire": {
+        "attack": "0%",
+        "defense": "0%"
+      }
+    }
+  },
+  {
+    "id": "4973",
+    "name": "Lost Exotic Albatrocious",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 1",
+    "png_path": "https://static.ankama.com/wakfu/ng/img/defaults/default_70_70.w133h.png",
+    "catch_boo": "No",
+    "characteristics": {
+      "health_points": "1",
+      "action_points": "6",
+      "mp": "3"
+    },
+    "resistances": {
+      "water": {
+        "attack": "0%",
+        "defense": "0%"
+      },
+      "earth": {
+        "attack": "0%",
+        "defense": "0%"
+      },
+      "air": {
+        "attack": "0%",
+        "defense": "0%"
+      },
+      "fire": {
+        "attack": "0%",
+        "defense": "0%"
+      }
+    }
+  },
+  {
+    "id": "4974",
+    "name": "Rogue Bomb",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 1",
+    "png_path": "https://static.ankama.com/wakfu/ng/img/defaults/default_70_70.w133h.png",
+    "catch_boo": "No",
+    "characteristics": {
+      "health_points": "1",
+      "action_points": "6",
+      "mp": "3"
+    },
+    "resistances": {
+      "water": {
+        "attack": "0%",
+        "defense": "0%"
+      },
+      "earth": {
+        "attack": "0%",
+        "defense": "0%"
+      },
+      "air": {
+        "attack": "0%",
+        "defense": "0%"
+      },
+      "fire": {
+        "attack": "0%",
+        "defense": "0%"
+      }
+    }
+  },
+  {
+    "id": "4977",
+    "name": "Volcanic Beacon",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 1",
+    "png_path": "https://static.ankama.com/wakfu/ng/img/defaults/default_70_70.w133h.png",
+    "catch_boo": "No",
+    "characteristics": {
+      "health_points": "1",
+      "action_points": "6",
+      "mp": "3"
+    },
+    "resistances": {
+      "water": {
+        "attack": "0%",
+        "defense": "0%"
+      },
+      "earth": {
+        "attack": "0%",
+        "defense": "0%"
+      },
+      "air": {
+        "attack": "0%",
+        "defense": "0%"
+      },
+      "fire": {
+        "attack": "0%",
+        "defense": "0%"
+      }
+    }
+  },
+  {
+    "id": "4982",
+    "name": "Blue Greedoblimp",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 1",
+    "png_path": "https://static.ankama.com/wakfu/ng/img/defaults/default_70_70.w133h.png",
+    "catch_boo": "No",
+    "characteristics": {
+      "health_points": "1",
+      "action_points": "6",
+      "mp": "3"
+    },
+    "resistances": {
+      "water": {
+        "attack": "0%",
+        "defense": "0%"
+      },
+      "earth": {
+        "attack": "0%",
+        "defense": "0%"
+      },
+      "air": {
+        "attack": "0%",
+        "defense": "0%"
+      },
+      "fire": {
+        "attack": "0%",
+        "defense": "0%"
+      }
+    }
+  },
+  {
+    "id": "4983",
+    "name": "Blue Greedodude",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 1",
+    "png_path": "https://static.ankama.com/wakfu/ng/img/defaults/default_70_70.w133h.png",
+    "catch_boo": "No",
+    "characteristics": {
+      "health_points": "1",
+      "action_points": "6",
+      "mp": "3"
+    },
+    "resistances": {
+      "water": {
+        "attack": "0%",
+        "defense": "0%"
+      },
+      "earth": {
+        "attack": "0%",
+        "defense": "0%"
+      },
+      "air": {
+        "attack": "0%",
+        "defense": "0%"
+      },
+      "fire": {
+        "attack": "0%",
+        "defense": "0%"
+      }
+    }
+  },
+  {
+    "id": "4984",
+    "name": "Pacifistic Polter",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 1",
+    "png_path": "https://static.ankama.com/wakfu/ng/img/defaults/default_70_70.w133h.png",
+    "catch_boo": "No",
+    "characteristics": {
+      "health_points": "1",
+      "action_points": "6",
+      "mp": "3"
+    },
+    "resistances": {
+      "water": {
+        "attack": "0%",
+        "defense": "0%"
+      },
+      "earth": {
+        "attack": "0%",
+        "defense": "0%"
+      },
+      "air": {
+        "attack": "0%",
+        "defense": "0%"
+      },
+      "fire": {
+        "attack": "0%",
+        "defense": "0%"
+      }
+    }
+  },
+  {
+    "id": "4986",
+    "name": "Gigantegg",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 1"
+  },
+  {
+    "id": "4987",
+    "name": "Minor Shushu",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 1"
+  },
+  {
+    "id": "5103",
+    "name": "Grave",
+    "family_name": "Chafers",
+    "level": "Lvl 1"
+  },
+  {
+    "id": "4956",
+    "name": "Crazy Cart",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 1"
+  },
+  {
+    "id": "4972",
+    "name": "Golden Macawker",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 1"
+  },
+  {
+    "id": "4976",
+    "name": "Burning Rock",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 1"
+  },
+  {
+    "id": "4979",
+    "name": "Wandering Ghast",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 1"
+  },
+  {
+    "id": "4989",
+    "name": "Ratou",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 1"
+  },
+  {
+    "id": "4990",
+    "name": "Skeleton Rat",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 1"
+  },
+  {
+    "id": "4189",
+    "name": "Runic Mimic",
+    "family_name": "",
+    "level": "Lvl 1 - 230"
+  },
+  {
+    "id": "4959",
+    "name": "Noxine",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 1"
+  },
+  {
+    "id": "4981",
+    "name": "Blue Greedodrip",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 1"
+  },
+  {
+    "id": "4988",
+    "name": "Rat",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 1"
+  },
+  {
+    "id": "4015",
+    "name": "Corrupted Tofoone",
+    "family_name": "Embrysouls",
+    "level": "Lvl 2"
+  },
+  {
+    "id": "4014",
+    "name": "Stasified Gobball",
+    "family_name": "Embrysouls",
+    "level": "Lvl 3"
+  },
+  {
+    "id": "4864",
+    "name": "Brakmar Mercenary",
+    "family_name": "",
+    "level": "Lvl 3"
+  },
+  {
+    "id": "4863",
+    "name": "Bonta Mercenary",
+    "family_name": "",
+    "level": "Lvl 3"
+  },
+  {
+    "id": "4746",
+    "name": "Sufokia Mercenary",
+    "family_name": "",
+    "level": "Lvl 3"
+  },
+  {
+    "id": "4783",
+    "name": "Amakna Mercenary",
+    "family_name": "",
+    "level": "Lvl 3"
+  },
+  {
+    "id": "4013",
+    "name": "Distorted Soul",
+    "family_name": "Embrysouls",
+    "level": "Lvl 4"
+  },
+  {
+    "id": "2616",
+    "name": "Bow Meow",
+    "family_name": "Bow Meows",
+    "level": "Lvl 4 - 6"
+  },
+  {
+    "id": "2617",
+    "name": "White Bow Meow",
+    "family_name": "Bow Meows",
+    "level": "Lvl 4 - 6"
+  },
+  {
+    "id": "39",
+    "name": "White Gobbly",
+    "family_name": "Gobballs",
+    "level": "Lvl 4 - 8"
+  },
+  {
+    "id": "2",
+    "name": "Black Gobbly",
+    "family_name": "Gobballs",
+    "level": "Lvl 4 - 8"
+  },
+  {
+    "id": "6",
+    "name": "Baby Tofu",
+    "family_name": "Tofus",
+    "level": "Lvl 4 - 8"
+  },
+  {
+    "id": "2205",
+    "name": "Boobytrapped Package",
+    "family_name": "Events",
+    "level": "Lvl 5"
+  },
+  {
+    "id": "4012",
+    "name": "Olavrann the External",
+    "family_name": "Embrysouls",
+    "level": "Lvl 5"
+  },
+  {
+    "id": "2819",
+    "name": "Nanny Larva",
+    "family_name": "Larvae",
+    "level": "Lvl 5"
+  },
+  {
+    "id": "2598",
+    "name": "Angora Bow Meow",
+    "family_name": "Bow Meows",
+    "level": "Lvl 6 - 8"
+  },
+  {
+    "id": "125",
+    "name": "Green Larva",
+    "family_name": "Larvae",
+    "level": "Lvl 8 - 18"
+  },
+  {
+    "id": "2048",
+    "name": "Al Howin Gobball",
+    "family_name": "Events",
+    "level": "Lvl 8 - 12"
+  },
+  {
+    "id": "4070",
+    "name": "Prespic",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 8 - 18"
+  },
+  {
+    "id": "4212",
+    "name": "Potrick Gobball",
+    "family_name": "Events",
+    "level": "Lvl 8 - 12"
+  },
+  {
+    "id": "4",
+    "name": "Tofu",
+    "family_name": "Tofus",
+    "level": "Lvl 8 - 12"
+  },
+  {
+    "id": "123",
+    "name": "Blue Larva",
+    "family_name": "Larvae",
+    "level": "Lvl 8 - 18"
+  },
+  {
+    "id": "2869",
+    "name": "Spring Gobball",
+    "family_name": "Events",
+    "level": "Lvl 8 - 12"
+  },
+  {
+    "id": "4075",
+    "name": "Big Mushd",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 8 - 18"
+  },
+  {
+    "id": "4434",
+    "name": "Fungus-Eating Purple Larva",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 8 - 18"
+  },
+  {
+    "id": "4574",
+    "name": "Al Howin Mummy",
+    "family_name": "Events",
+    "level": "Lvl 8 - 12"
+  },
+  {
+    "id": "735",
+    "name": "White Larva",
+    "family_name": "Larvae",
+    "level": "Lvl 8 - 18"
+  },
+  {
+    "id": "1724",
+    "name": "Ballotwine Gobball",
+    "family_name": "Events",
+    "level": "Lvl 8 - 12"
+  },
+  {
+    "id": "2754",
+    "name": "Al Howin Ghoul",
+    "family_name": "Events",
+    "level": "Lvl 8 - 12"
+  },
+  {
+    "id": "4071",
+    "name": "Blibli",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 8 - 18"
+  },
+  {
+    "id": "1",
+    "name": "Gobball",
+    "family_name": "Gobballs",
+    "level": "Lvl 8 - 12"
+  },
+  {
+    "id": "124",
+    "name": "Orange Larva",
+    "family_name": "Larvae",
+    "level": "Lvl 8 - 18"
+  },
+  {
+    "id": "785",
+    "name": "Purple Larva",
+    "family_name": "Larvae",
+    "level": "Lvl 8 - 18"
+  },
+  {
+    "id": "5",
+    "name": "Tofoone",
+    "family_name": "Tofus",
+    "level": "Lvl 10 - 14"
+  },
+  {
+    "id": "41",
+    "name": "Gobbette",
+    "family_name": "Gobballs",
+    "level": "Lvl 10 - 14"
+  },
+  {
+    "id": "1816",
+    "name": "Maine Goon",
+    "family_name": "Bow Meows",
+    "level": "Lvl 10 - 15"
+  },
+  {
+    "id": "3645",
+    "name": "Tiwodent",
+    "family_name": "Events",
+    "level": "Lvl 10"
+  },
+  {
+    "id": "5313",
+    "name": "Shusnitch",
+    "family_name": "Localization failed. Error: 418 I'm a teapot.",
+    "level": "Lvl 10"
+  },
+  {
+    "id": "4091",
+    "name": "Ogrest's Cult Raider",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 12 - 18"
+  },
+  {
+    "id": "4090",
+    "name": "Ogrest's Cult Raider",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 12 - 18"
+  },
+  {
+    "id": "4114",
+    "name": "Scythescraper",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 12"
+  },
+  {
+    "id": "3646",
+    "name": "Wodent",
+    "family_name": "Events",
+    "level": "Lvl 12"
+  },
+  {
+    "id": "3",
+    "name": "Gobball War Chief",
+    "family_name": "Gobballs",
+    "level": "Lvl 14 - 18"
+  },
+  {
+    "id": "704",
+    "name": "Tofurby",
+    "family_name": "Tofus",
+    "level": "Lvl 14 - 18"
+  },
+  {
+    "id": "3644",
+    "name": "Mama Wodent",
+    "family_name": "Events",
+    "level": "Lvl 15"
+  },
+  {
+    "id": "4865",
+    "name": "Captured Yokai",
+    "family_name": "Events",
+    "level": "Lvl 15"
+  },
+  {
+    "id": "4852",
+    "name": "Yokai",
+    "family_name": "Events",
+    "level": "Lvl 15"
+  },
+  {
+    "id": "4851",
+    "name": "Kitsunebi",
+    "family_name": "Events",
+    "level": "Lvl 15"
+  },
+  {
+    "id": "3774",
+    "name": "Grambodo",
+    "family_name": "Ogrest's Cult?",
+    "level": "Lvl 16"
+  },
+  {
+    "id": "4085",
+    "name": "Dominant Gobball",
+    "family_name": "Gobballs",
+    "level": "Lvl 18 - 23"
+  },
+  {
+    "id": "4096",
+    "name": "Dominant Larva",
+    "family_name": "Larvae",
+    "level": "Lvl 18 - 23"
+  },
+  {
+    "id": "4092",
+    "name": "Dominant Tofu",
+    "family_name": "Tofus",
+    "level": "Lvl 18 - 23"
+  },
+  {
+    "id": "3212",
+    "name": "Skeleton Rat",
+    "family_name": "Skeletons",
+    "level": "Lvl 19 - 23"
+  },
+  {
+    "id": "4079",
+    "name": "Arachnee",
+    "family_name": "Treechnees",
+    "level": "Lvl 19 - 23"
+  },
+  {
+    "id": "2876",
+    "name": "Occult Cult",
+    "family_name": "Events",
+    "level": "Lvl 20"
+  },
+  {
+    "id": "2879",
+    "name": "Occult Cult",
+    "family_name": "Events",
+    "level": "Lvl 20"
+  },
+  {
+    "id": "2880",
+    "name": "Incarnated Abomination",
+    "family_name": "Events",
+    "level": "Lvl 20"
+  },
+  {
+    "id": "2881",
+    "name": "Grand Master of the Occult Cult",
+    "family_name": "Events",
+    "level": "Lvl 20"
+  },
+  {
+    "id": "2877",
+    "name": "Occult Cult",
+    "family_name": "Events",
+    "level": "Lvl 20"
+  },
+  {
+    "id": "2878",
+    "name": "Occult Cult",
+    "family_name": "Events",
+    "level": "Lvl 20"
+  },
+  {
+    "id": "3780",
+    "name": "Foweman Cult Shredder",
+    "family_name": "Ogrest's Cult?",
+    "level": "Lvl 20"
+  },
+  {
+    "id": "4073",
+    "name": "Oafish Toad",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 22 - 33"
+  },
+  {
+    "id": "88",
+    "name": "Blue Piwi",
+    "family_name": "Piwis",
+    "level": "Lvl 22 - 30"
+  },
+  {
+    "id": "90",
+    "name": "Green Piwi",
+    "family_name": "Piwis",
+    "level": "Lvl 22 - 30"
+  },
+  {
+    "id": "271",
+    "name": "Purple Piwi",
+    "family_name": "Piwis",
+    "level": "Lvl 22 - 30"
+  },
+  {
+    "id": "1268",
+    "name": "Red Googoo",
+    "family_name": "Piwis",
+    "level": "Lvl 22 - 30"
+  },
+  {
+    "id": "1269",
+    "name": "Green Googoo",
+    "family_name": "Piwis",
+    "level": "Lvl 22 - 30"
+  },
+  {
+    "id": "3214",
+    "name": "Skeletal Gobball",
+    "family_name": "Skeletons",
+    "level": "Lvl 22 - 26"
+  },
+  {
+    "id": "87",
+    "name": "Red Piwi",
+    "family_name": "Piwis",
+    "level": "Lvl 22 - 30"
+  },
+  {
+    "id": "1267",
+    "name": "Blue Googoo",
+    "family_name": "Piwis",
+    "level": "Lvl 22 - 30"
+  },
+  {
+    "id": "1270",
+    "name": "Purple Googoo",
+    "family_name": "Piwis",
+    "level": "Lvl 22 - 30"
+  },
+  {
+    "id": "4072",
+    "name": "Crackrock",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 22 - 33"
+  },
+  {
+    "id": "4074",
+    "name": "Ratou",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 22 - 33"
+  },
+  {
+    "id": "4101",
+    "name": "Claud Sharpe",
+    "family_name": "Tofus",
+    "level": "Lvl 23 - 28"
+  },
+  {
+    "id": "44",
+    "name": "Royal Gobball",
+    "family_name": "Gobballs",
+    "level": "Lvl 23 - 28"
+  },
+  {
+    "id": "4077",
+    "name": "Treechorn",
+    "family_name": "Treechnees",
+    "level": "Lvl 23 - 27"
+  },
+  {
+    "id": "4086",
+    "name": "Filholl the Forsaken",
+    "family_name": "Gobballs",
+    "level": "Lvl 23 - 28"
+  },
+  {
+    "id": "1259",
+    "name": "Royal Tofu",
+    "family_name": "Tofus",
+    "level": "Lvl 23 - 28"
+  },
+  {
+    "id": "4097",
+    "name": "Explosive Larvawork",
+    "family_name": "Larvae",
+    "level": "Lvl 23 - 28"
+  },
+  {
+    "id": "2157",
+    "name": "Shin Larva",
+    "family_name": "Larvae",
+    "level": "Lvl 23 - 28"
+  },
+  {
+    "id": "4126",
+    "name": "Scythescraper",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 25"
+  },
+  {
+    "id": "4078",
+    "name": "Arachnee Embroiderer",
+    "family_name": "Treechnees",
+    "level": "Lvl 25 - 29"
+  },
+  {
+    "id": "272",
+    "name": "Pink Piwi",
+    "family_name": "Piwis",
+    "level": "Lvl 26 - 34"
+  },
+  {
+    "id": "3215",
+    "name": "Skeleton Guard",
+    "family_name": "Skeletons",
+    "level": "Lvl 26 - 30"
+  },
+  {
+    "id": "4088",
+    "name": "Warrior Grambo",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 27 - 33"
+  },
+  {
+    "id": "4089",
+    "name": "Grambo Assassin",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 27 - 33"
+  },
+  {
+    "id": "4076",
+    "name": "Treechnid",
+    "family_name": "Treechnees",
+    "level": "Lvl 29 - 33"
+  },
+  {
+    "id": "3925",
+    "name": "Kuro the Masokid",
+    "family_name": "Huppermage School",
+    "level": "Lvl 30 - 130"
+  },
+  {
+    "id": "4047",
+    "name": "Sleepy Guard",
+    "family_name": "Ogrest's Cult?",
+    "level": "Lvl 30"
+  },
+  {
+    "id": "2200",
+    "name": "Comman Deer",
+    "family_name": "Events",
+    "level": "Lvl 30"
+  },
+  {
+    "id": "2201",
+    "name": "Gift Package",
+    "family_name": "Events",
+    "level": "Lvl 30"
+  },
+  {
+    "id": "3924",
+    "name": "Aspidon",
+    "family_name": "Huppermage School",
+    "level": "Lvl 30 - 130"
+  },
+  {
+    "id": "1855",
+    "name": "Cupiddlypants",
+    "family_name": "Trool Fair",
+    "level": "Lvl 30"
+  },
+  {
+    "id": "2224",
+    "name": "Gift Package",
+    "family_name": "Events",
+    "level": "Lvl 30"
+  },
+  {
+    "id": "3923",
+    "name": "Terrana Dune",
+    "family_name": "Huppermage School",
+    "level": "Lvl 30 - 130"
+  },
+  {
+    "id": "3922",
+    "name": "Jo-Chlo Vandam",
+    "family_name": "Huppermage School",
+    "level": "Lvl 30 - 130"
+  },
+  {
+    "id": "4018",
+    "name": "Mimi Skäte",
+    "family_name": "Events",
+    "level": "Lvl 31"
+  },
+  {
+    "id": "4093",
+    "name": "Dominant Piwi",
+    "family_name": "Piwis",
+    "level": "Lvl 33 - 38"
+  },
+  {
+    "id": "4094",
+    "name": "Dominant Treechnid",
+    "family_name": "Treechnees",
+    "level": "Lvl 33 - 38"
+  },
+  {
+    "id": "4019",
+    "name": "Bubble Skäte",
+    "family_name": "Events",
+    "level": "Lvl 33"
+  },
+  {
+    "id": "1359",
+    "name": "Blue Raspberry Blii",
+    "family_name": "Jellies",
+    "level": "Lvl 35"
+  },
+  {
+    "id": "4046",
+    "name": "Guard",
+    "family_name": "Ogrest's Cult?",
+    "level": "Lvl 35"
+  },
+  {
+    "id": "4048",
+    "name": "Trained Bythard",
+    "family_name": "Ogrest's Cult?",
+    "level": "Lvl 35"
+  },
+  {
+    "id": "4055",
+    "name": "Sand Mummy",
+    "family_name": "Ogrest's Cult?",
+    "level": "Lvl 35"
+  },
+  {
+    "id": "3893",
+    "name": "Khan Karkass",
+    "family_name": "Ogrest's Cult?",
+    "level": "Lvl 35"
+  },
+  {
+    "id": "1360",
+    "name": "Lemon Blii",
+    "family_name": "Jellies",
+    "level": "Lvl 35"
+  },
+  {
+    "id": "1361",
+    "name": "Strawberry Blii",
+    "family_name": "Jellies",
+    "level": "Lvl 35"
+  },
+  {
+    "id": "1362",
+    "name": "Mint Blii",
+    "family_name": "Jellies",
+    "level": "Lvl 35"
+  },
+  {
+    "id": "4049",
+    "name": "Mechan-0",
+    "family_name": "Ogrest's Cult?",
+    "level": "Lvl 36"
+  },
+  {
+    "id": "4051",
+    "name": "Mummypnotized Guard",
+    "family_name": "Ogrest's Cult?",
+    "level": "Lvl 36"
+  },
+  {
+    "id": "4050",
+    "name": "Mummypnotized Sergeant",
+    "family_name": "Ogrest's Cult?",
+    "level": "Lvl 36"
+  },
+  {
+    "id": "4052",
+    "name": "Attack Bythard",
+    "family_name": "Ogrest's Cult?",
+    "level": "Lvl 36"
+  },
+  {
+    "id": "4053",
+    "name": "Mummidified Mechan-0",
+    "family_name": "Ogrest's Cult?",
+    "level": "Lvl 36"
+  },
+  {
+    "id": "4020",
+    "name": "Imperiäl Skäte",
+    "family_name": "Events",
+    "level": "Lvl 36"
+  },
+  {
+    "id": "4648",
+    "name": "Jadarmed",
+    "family_name": "Mineral Tower",
+    "level": "Lvl 37 - 45"
+  },
+  {
+    "id": "4650",
+    "name": "Agatank",
+    "family_name": "Mineral Tower",
+    "level": "Lvl 37 - 45"
+  },
+  {
+    "id": "4649",
+    "name": "Emeraldin",
+    "family_name": "Mineral Tower",
+    "level": "Lvl 37 - 45"
+  },
+  {
+    "id": "1187",
+    "name": "Royal Piwi",
+    "family_name": "Piwis",
+    "level": "Lvl 38 - 43"
+  },
+  {
+    "id": "4098",
+    "name": "Abribus the Protector",
+    "family_name": "Treechnees",
+    "level": "Lvl 38 - 43"
+  },
+  {
+    "id": "4100",
+    "name": "Gunner Pewpew",
+    "family_name": "Piwis",
+    "level": "Lvl 38 - 43"
+  },
+  {
+    "id": "4512",
+    "name": "Crackrock",
+    "family_name": "Cracklers",
+    "level": "Lvl 38 - 42"
+  },
+  {
+    "id": "4880",
+    "name": "Mine Crackrock",
+    "family_name": "Cracklers",
+    "level": "Lvl 38 - 42"
+  },
+  {
+    "id": "4953",
+    "name": "Scarecroolate",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 38 - 44"
+  },
+  {
+    "id": "4954",
+    "name": "Scarecroosoon",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 38 - 44"
+  },
+  {
+    "id": "4963",
+    "name": "Badskin Recruit",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 38 - 44"
+  },
+  {
+    "id": "3216",
+    "name": "Morfor",
+    "family_name": "Skeletons",
+    "level": "Lvl 38 - 43"
+  },
+  {
+    "id": "4755",
+    "name": "Moofly",
+    "family_name": "Moogrr",
+    "level": "Lvl 38 - 42"
+  },
+  {
+    "id": "4964",
+    "name": "Badaclocom Recruit",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 38 - 44"
+  },
+  {
+    "id": "135",
+    "name": "Dandy Lion",
+    "family_name": "Field Plants",
+    "level": "Lvl 38 - 42"
+  },
+  {
+    "id": "4107",
+    "name": "Treechnell",
+    "family_name": "Treechnees",
+    "level": "Lvl 38 - 43"
+  },
+  {
+    "id": "4960",
+    "name": "Oafish Toad",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 38 - 44"
+  },
+  {
+    "id": "4969",
+    "name": "Reinette",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 38 - 44"
+  },
+  {
+    "id": "4961",
+    "name": "Prancing Chimera",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 38 - 44"
+  },
+  {
+    "id": "4021",
+    "name": "Sänd Cästle",
+    "family_name": "Events",
+    "level": "Lvl 39"
+  },
+  {
+    "id": "95",
+    "name": "Demonic Rose",
+    "family_name": "Field Plants",
+    "level": "Lvl 40 - 44"
+  },
+  {
+    "id": "1275",
+    "name": "Spiny Glutton",
+    "family_name": "Field Plants",
+    "level": "Lvl 40 - 44"
+  },
+  {
+    "id": "2096",
+    "name": "Witch",
+    "family_name": "Events",
+    "level": "Lvl 40"
+  },
+  {
+    "id": "2225",
+    "name": "Belva Deer",
+    "family_name": "Events",
+    "level": "Lvl 40"
+  },
+  {
+    "id": "4544",
+    "name": "Darkover Rose",
+    "family_name": "Field Plants",
+    "level": "Lvl 40 - 44"
+  },
+  {
+    "id": "4756",
+    "name": "Moogrroon",
+    "family_name": "Moogrr",
+    "level": "Lvl 40 - 44"
+  },
+  {
+    "id": "4365",
+    "name": "Scythescraper",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 40"
+  },
+  {
+    "id": "4511",
+    "name": "Crackler",
+    "family_name": "Cracklers",
+    "level": "Lvl 40 - 44"
+  },
+  {
+    "id": "4757",
+    "name": "Moogrr",
+    "family_name": "Moogrr",
+    "level": "Lvl 40 - 48"
+  },
+  {
+    "id": "4879",
+    "name": "Mine Crackler",
+    "family_name": "Cracklers",
+    "level": "Lvl 40 - 44"
+  },
+  {
+    "id": "4901",
+    "name": "Noxious Wodent",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 42 - 48"
+  },
+  {
+    "id": "4908",
+    "name": "Bwork Peon",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 42 - 48"
+  },
+  {
+    "id": "4899",
+    "name": "Standard-Bearing Whispursuer",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 42 - 48"
+  },
+  {
+    "id": "4900",
+    "name": "Infantry Whispursuers",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 42 - 48"
+  },
+  {
+    "id": "4902",
+    "name": "Noxious Mama Wodent",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 42 - 48"
+  },
+  {
+    "id": "4907",
+    "name": "Clumsy Bwork Bomber",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 42 - 48"
+  },
+  {
+    "id": "3565",
+    "name": "Badskin",
+    "family_name": "Kelba",
+    "level": "Lvl 43"
+  },
+  {
+    "id": "4878",
+    "name": "Ancestral Mine Crackler",
+    "family_name": "Cracklers",
+    "level": "Lvl 44 - 48"
+  },
+  {
+    "id": "1274",
+    "name": "Exploding Sunflower",
+    "family_name": "Field Plants",
+    "level": "Lvl 44 - 48"
+  },
+  {
+    "id": "94",
+    "name": "Evil Dandelion",
+    "family_name": "Field Plants",
+    "level": "Lvl 44 - 48"
+  },
+  {
+    "id": "4510",
+    "name": "Ancestral Crackler",
+    "family_name": "Cracklers",
+    "level": "Lvl 44 - 48"
+  },
+  {
+    "id": "4054",
+    "name": "Tutaur'Kama",
+    "family_name": "Ogrest's Cult?",
+    "level": "Lvl 45"
+  },
+  {
+    "id": "4252",
+    "name": "Schnek Prisoner",
+    "family_name": "Mount Zinit",
+    "level": "Lvl 45"
+  },
+  {
+    "id": "4764",
+    "name": "Dominant Blibli",
+    "family_name": "Cania Creatures",
+    "level": "Lvl 45"
+  },
+  {
+    "id": "4843",
+    "name": "Contaminated Plant",
+    "family_name": "Amakna",
+    "level": "Lvl 45"
+  },
+  {
+    "id": "1636",
+    "name": "Dandel the Boy",
+    "family_name": "Field Plants",
+    "level": "Lvl 45"
+  },
+  {
+    "id": "3591",
+    "name": "Passer",
+    "family_name": "Kelba",
+    "level": "Lvl 46"
+  },
+  {
+    "id": "3567",
+    "name": "Badgoat",
+    "family_name": "Kelba",
+    "level": "Lvl 46"
+  },
+  {
+    "id": "2122",
+    "name": "Dominant Plant",
+    "family_name": "Field Plants",
+    "level": "Lvl 48 - 53"
+  },
+  {
+    "id": "2118",
+    "name": "Dominant Moogrroon",
+    "family_name": "Moogrr",
+    "level": "Lvl 48 - 53"
+  },
+  {
+    "id": "2179",
+    "name": "Bontarian Deckhand",
+    "family_name": "Calamar Island",
+    "level": "Lvl 48"
+  },
+  {
+    "id": "2177",
+    "name": "Amaknian Deckhand",
+    "family_name": "Calamar Island",
+    "level": "Lvl 48"
+  },
+  {
+    "id": "4369",
+    "name": "Dominant Crackler",
+    "family_name": "Cracklers",
+    "level": "Lvl 48 - 53"
+  },
+  {
+    "id": "2183",
+    "name": "Brakmarian Deckhand",
+    "family_name": "Calamar Island",
+    "level": "Lvl 48"
+  },
+  {
+    "id": "2188",
+    "name": "Sufokian Deckhand",
+    "family_name": "Calamar Island",
+    "level": "Lvl 48"
+  },
+  {
+    "id": "3566",
+    "name": "Badaclocom",
+    "family_name": "Kelba",
+    "level": "Lvl 49"
+  },
+  {
+    "id": "2184",
+    "name": "Brakmarian Seaman",
+    "family_name": "Calamar Island",
+    "level": "Lvl 50"
+  },
+  {
+    "id": "2765",
+    "name": "Wild Gobball",
+    "family_name": "Wild Gobballs",
+    "level": "Lvl 50"
+  },
+  {
+    "id": "2189",
+    "name": "Sufokian Seaman",
+    "family_name": "Calamar Island",
+    "level": "Lvl 50"
+  },
+  {
+    "id": "2798",
+    "name": "Angry Excarnate",
+    "family_name": "Excarnates",
+    "level": "Lvl 50"
+  },
+  {
+    "id": "2799",
+    "name": "Angry Excarnate",
+    "family_name": "Excarnates",
+    "level": "Lvl 50"
+  },
+  {
+    "id": "2868",
+    "name": "Grinch",
+    "family_name": "Events",
+    "level": "Lvl 50"
+  },
+  {
+    "id": "2826",
+    "name": "Major Excarnate",
+    "family_name": "Excarnates",
+    "level": "Lvl 50"
+  },
+  {
+    "id": "4022",
+    "name": "Bläck Skäte",
+    "family_name": "Events",
+    "level": "Lvl 50"
+  },
+  {
+    "id": "2176",
+    "name": "Amaknian Seaman",
+    "family_name": "Calamar Island",
+    "level": "Lvl 50"
+  },
+  {
+    "id": "2180",
+    "name": "Bontarian Seaman",
+    "family_name": "Calamar Island",
+    "level": "Lvl 50"
+  },
+  {
+    "id": "2202",
+    "name": "Father Kwismas",
+    "family_name": "Events",
+    "level": "Lvl 50"
+  },
+  {
+    "id": "2825",
+    "name": "Cursed Relic",
+    "family_name": "Excarnates",
+    "level": "Lvl 50"
+  },
+  {
+    "id": "4033",
+    "name": "Bläck Skäte Clone",
+    "family_name": "Events",
+    "level": "Lvl 50"
+  },
+  {
+    "id": "4748",
+    "name": "Surimi",
+    "family_name": "Cwabs",
+    "level": "Lvl 51"
+  },
+  {
+    "id": "4749",
+    "name": "Cwablock",
+    "family_name": "Cwabs",
+    "level": "Lvl 51 - 55"
+  },
+  {
+    "id": "2187",
+    "name": "Sufokian Quartermaster",
+    "family_name": "Calamar Island",
+    "level": "Lvl 52"
+  },
+  {
+    "id": "2810",
+    "name": "Angry Excarnate",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 52 - 63"
+  },
+  {
+    "id": "2954",
+    "name": "Brakmarian Quartermaster",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 52 - 63"
+  },
+  {
+    "id": "2955",
+    "name": "Sufokian Quartermaster",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 52 - 63"
+  },
+  {
+    "id": "2950",
+    "name": "Bontarian Quartermaster",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 52 - 63"
+  },
+  {
+    "id": "4502",
+    "name": "Chaos Deckhand",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 52 - 63"
+  },
+  {
+    "id": "2181",
+    "name": "Bontarian Quartermaster",
+    "family_name": "Calamar Island",
+    "level": "Lvl 52"
+  },
+  {
+    "id": "2766",
+    "name": "Shaman Gobbette",
+    "family_name": "Wild Gobballs",
+    "level": "Lvl 52"
+  },
+  {
+    "id": "4503",
+    "name": "Chaos Seaman",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 52 - 63"
+  },
+  {
+    "id": "2175",
+    "name": "Amaknian Quartermaster",
+    "family_name": "Calamar Island",
+    "level": "Lvl 52"
+  },
+  {
+    "id": "2185",
+    "name": "Brakmarian Quartermaster",
+    "family_name": "Calamar Island",
+    "level": "Lvl 52"
+  },
+  {
+    "id": "2809",
+    "name": "Angry Excarnate",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 52 - 63"
+  },
+  {
+    "id": "2943",
+    "name": "Amaknian Quartermaster",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 52 - 63"
+  },
+  {
+    "id": "1726",
+    "name": "Carnivorous Plant",
+    "family_name": "Field Plants",
+    "level": "Lvl 53 - 58"
+  },
+  {
+    "id": "4239",
+    "name": "Kralove",
+    "family_name": "Mount Zinit",
+    "level": "Lvl 53 - 57"
+  },
+  {
+    "id": "4368",
+    "name": "Cracknut the Nuisance",
+    "family_name": "Cracklers",
+    "level": "Lvl 53 - 58"
+  },
+  {
+    "id": "4992",
+    "name": "Migratory Albatrocious",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 53 - 59"
+  },
+  {
+    "id": "4993",
+    "name": "Migratory Cwab",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 53 - 59"
+  },
+  {
+    "id": "1632",
+    "name": "Moothane the Gas",
+    "family_name": "Moogrr",
+    "level": "Lvl 53 - 58"
+  },
+  {
+    "id": "4519",
+    "name": "Royal Crackler",
+    "family_name": "Cracklers",
+    "level": "Lvl 53 - 58"
+  },
+  {
+    "id": "4758",
+    "name": "Royal Moogrr",
+    "family_name": "Moogrr",
+    "level": "Lvl 53 - 58"
+  },
+  {
+    "id": "4730",
+    "name": "Tikoko",
+    "family_name": "Kokokos",
+    "level": "Lvl 53 - 57"
+  },
+  {
+    "id": "4241",
+    "name": "Sweetlachii",
+    "family_name": "Mount Zinit",
+    "level": "Lvl 53 - 57"
+  },
+  {
+    "id": "4651",
+    "name": "Unearthed Agony",
+    "family_name": "Mineral Tower",
+    "level": "Lvl 53 - 58"
+  },
+  {
+    "id": "5005",
+    "name": "Dew the Early Riser",
+    "family_name": "Field Plants",
+    "level": "Lvl 53 - 58"
+  },
+  {
+    "id": "2767",
+    "name": "Wild Gobbly",
+    "family_name": "Wild Gobballs",
+    "level": "Lvl 54"
+  },
+  {
+    "id": "2182",
+    "name": "Bontarian Privateer Cap'n",
+    "family_name": "Calamar Island",
+    "level": "Lvl 55"
+  },
+  {
+    "id": "2190",
+    "name": "Sufokian Privateer Captain",
+    "family_name": "Calamar Island",
+    "level": "Lvl 55"
+  },
+  {
+    "id": "4242",
+    "name": "Hammer Selachii",
+    "family_name": "Mount Zinit",
+    "level": "Lvl 55 - 59"
+  },
+  {
+    "id": "4282",
+    "name": "Scythescraper",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 55"
+  },
+  {
+    "id": "2162",
+    "name": "Chaos Deckhand",
+    "family_name": "Calamar Island",
+    "level": "Lvl 55"
+  },
+  {
+    "id": "2165",
+    "name": "Chaos Deckhand",
+    "family_name": "Calamar Island",
+    "level": "Lvl 55"
+  },
+  {
+    "id": "2764",
+    "name": "Wild War Chief",
+    "family_name": "Wild Gobballs",
+    "level": "Lvl 55"
+  },
+  {
+    "id": "4237",
+    "name": "Darth Mussel",
+    "family_name": "Mount Zinit",
+    "level": "Lvl 55 - 59"
+  },
+  {
+    "id": "4286",
+    "name": "Zinit Cwab",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 55"
+  },
+  {
+    "id": "2163",
+    "name": "Chaos Deckhand",
+    "family_name": "Calamar Island",
+    "level": "Lvl 55"
+  },
+  {
+    "id": "2164",
+    "name": "Chaos Deckhand",
+    "family_name": "Calamar Island",
+    "level": "Lvl 55"
+  },
+  {
+    "id": "2174",
+    "name": "Amaknian Privateer Cap'n",
+    "family_name": "Calamar Island",
+    "level": "Lvl 55"
+  },
+  {
+    "id": "4319",
+    "name": "Gallery",
+    "family_name": "Mount Zinit",
+    "level": "Lvl 55"
+  },
+  {
+    "id": "4729",
+    "name": "Kokoko",
+    "family_name": "Kokokos",
+    "level": "Lvl 55 - 59"
+  },
+  {
+    "id": "2186",
+    "name": "Brakmarian Privateer Captain",
+    "family_name": "Calamar Island",
+    "level": "Lvl 55"
+  },
+  {
+    "id": "2770",
+    "name": "Bwork Miner",
+    "family_name": "Bworks",
+    "level": "Lvl 55"
+  },
+  {
+    "id": "4751",
+    "name": "Albatrocious",
+    "family_name": "Cwabs",
+    "level": "Lvl 56 - 60"
+  },
+  {
+    "id": "4460",
+    "name": "Aggressive Hammer Selachii",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 57 - 63"
+  },
+  {
+    "id": "4404",
+    "name": "Elite Chafer",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 57 - 63"
+  },
+  {
+    "id": "4459",
+    "name": "Aggressive Sweetlachii",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 57 - 63"
+  },
+  {
+    "id": "2771",
+    "name": "Bwork Bomber",
+    "family_name": "Bworks",
+    "level": "Lvl 57"
+  },
+  {
+    "id": "4402",
+    "name": "Chafer Archer",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 57 - 63"
+  },
+  {
+    "id": "4461",
+    "name": "Aggressive Spear Selachii",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 57 - 63"
+  },
+  {
+    "id": "4906",
+    "name": "Dark Hurl Sentinel",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 57 - 63"
+  },
+  {
+    "id": "4403",
+    "name": "Chafer Lancer",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 57 - 63"
+  },
+  {
+    "id": "4905",
+    "name": "Dark Hurl Shoveler",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 57 - 63"
+  },
+  {
+    "id": "4243",
+    "name": "Spear Selachii",
+    "family_name": "Mount Zinit",
+    "level": "Lvl 59 - 63"
+  },
+  {
+    "id": "4728",
+    "name": "Rokoko",
+    "family_name": "Kokokos",
+    "level": "Lvl 59 - 63"
+  },
+  {
+    "id": "4238",
+    "name": "Snailmet",
+    "family_name": "Mount Zinit",
+    "level": "Lvl 59 - 63"
+  },
+  {
+    "id": "2772",
+    "name": "Bwork Warrior",
+    "family_name": "Bworks",
+    "level": "Lvl 59"
+  },
+  {
+    "id": "1856",
+    "name": "Spektra",
+    "family_name": "Trool Fair",
+    "level": "Lvl 60"
+  },
+  {
+    "id": "2887",
+    "name": "Demon Hunter",
+    "family_name": "Events",
+    "level": "Lvl 60"
+  },
+  {
+    "id": "4140",
+    "name": "Gankr",
+    "family_name": "Ogrest's Cult?",
+    "level": "Lvl 60"
+  },
+  {
+    "id": "2172",
+    "name": "Chaos Quartermaster",
+    "family_name": "Calamar Island",
+    "level": "Lvl 60"
+  },
+  {
+    "id": "2888",
+    "name": "Occult Cult Member",
+    "family_name": "Events",
+    "level": "Lvl 60"
+  },
+  {
+    "id": "4288",
+    "name": "Freshwater Deckhand",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 60"
+  },
+  {
+    "id": "4750",
+    "name": "Father Cwabstix",
+    "family_name": "Cwabs",
+    "level": "Lvl 61 - 64"
+  },
+  {
+    "id": "2773",
+    "name": "Cybwork",
+    "family_name": "Bworks",
+    "level": "Lvl 61"
+  },
+  {
+    "id": "2159",
+    "name": "Calamar Island Starfish",
+    "family_name": "Calamar Island",
+    "level": "Lvl 62"
+  },
+  {
+    "id": "4268",
+    "name": "Selachii",
+    "family_name": "Mount Zinit",
+    "level": "Lvl 63 - 68"
+  },
+  {
+    "id": "4753",
+    "name": "Dominant Cwab",
+    "family_name": "Cwabs",
+    "level": "Lvl 63 - 68"
+  },
+  {
+    "id": "4738",
+    "name": "Dominant Kokoko",
+    "family_name": "Kokokos",
+    "level": "Lvl 63 - 68"
+  },
+  {
+    "id": "2131",
+    "name": "Startrine the Stylish",
+    "family_name": "Calamar Island",
+    "level": "Lvl 63 - 68"
+  },
+  {
+    "id": "4256",
+    "name": "Vertigo",
+    "family_name": "Mount Zinit",
+    "level": "Lvl 63 - 68"
+  },
+  {
+    "id": "4401",
+    "name": "Buffaloble the Rider",
+    "family_name": "Wild Gobballs",
+    "level": "Lvl 63 - 68"
+  },
+  {
+    "id": "2158",
+    "name": "Exotic Cwab",
+    "family_name": "Calamar Island",
+    "level": "Lvl 64"
+  },
+  {
+    "id": "1784",
+    "name": "Croboar",
+    "family_name": "Crobaks",
+    "level": "Lvl 65"
+  },
+  {
+    "id": "4287",
+    "name": "Oprah Spicy",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 65"
+  },
+  {
+    "id": "1753",
+    "name": "Fridawg",
+    "family_name": "Kokokos",
+    "level": "Lvl 65"
+  },
+  {
+    "id": "2173",
+    "name": "Chaos Captain",
+    "family_name": "Calamar Island",
+    "level": "Lvl 65"
+  },
+  {
+    "id": "3613",
+    "name": "Badskin",
+    "family_name": "",
+    "level": "Lvl 65"
+  },
+  {
+    "id": "3614",
+    "name": "Badaclocom",
+    "family_name": "",
+    "level": "Lvl 65"
+  },
+  {
+    "id": "1751",
+    "name": "Old Binson",
+    "family_name": "Kokokos",
+    "level": "Lvl 65"
+  },
+  {
+    "id": "2194",
+    "name": "Dark Hurl Deckhand",
+    "family_name": "Calamar Island",
+    "level": "Lvl 65"
+  },
+  {
+    "id": "3615",
+    "name": "Badgoat",
+    "family_name": "",
+    "level": "Lvl 65"
+  },
+  {
+    "id": "2193",
+    "name": "Dark Hurl Deckhand",
+    "family_name": "Calamar Island",
+    "level": "Lvl 65"
+  },
+  {
+    "id": "3610",
+    "name": "Croboar",
+    "family_name": "",
+    "level": "Lvl 65"
+  },
+  {
+    "id": "2768",
+    "name": "Great Wild Gobball",
+    "family_name": "Wild Gobballs",
+    "level": "Lvl 65"
+  },
+  {
+    "id": "1858",
+    "name": "Fake Dark Vlad",
+    "family_name": "Trool Fair",
+    "level": "Lvl 66"
+  },
+  {
+    "id": "4760",
+    "name": "Young Wild Sow",
+    "family_name": "Cania Creatures",
+    "level": "Lvl 66 - 68"
+  },
+  {
+    "id": "2246",
+    "name": "Kelba Tempest",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 67 - 78"
+  },
+  {
+    "id": "4409",
+    "name": "Migratory Slith",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 67 - 78"
+  },
+  {
+    "id": "4410",
+    "name": "Migratory Magischnek",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 67 - 78"
+  },
+  {
+    "id": "4379",
+    "name": "Noxine",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 67 - 78"
+  },
+  {
+    "id": "4408",
+    "name": "Migratory Gunky Schnek",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 67 - 78"
+  },
+  {
+    "id": "2161",
+    "name": "Food Mill",
+    "family_name": "Calamar Island",
+    "level": "Lvl 67"
+  },
+  {
+    "id": "4499",
+    "name": "Young Borbat",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 67 - 78"
+  },
+  {
+    "id": "2257",
+    "name": "Kelba Tornado",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 67 - 78"
+  },
+  {
+    "id": "4411",
+    "name": "Schnek Head",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 67 - 78"
+  },
+  {
+    "id": "4255",
+    "name": "Kraken",
+    "family_name": "Mount Zinit",
+    "level": "Lvl 68 - 73"
+  },
+  {
+    "id": "4737",
+    "name": "Kokoblong the Vertical",
+    "family_name": "Kokokos",
+    "level": "Lvl 68 - 73"
+  },
+  {
+    "id": "4867",
+    "name": "Strich",
+    "family_name": "Striches",
+    "level": "Lvl 68 - 72"
+  },
+  {
+    "id": "4916",
+    "name": "Moskito",
+    "family_name": "Mushdskitos",
+    "level": "Lvl 68 - 72"
+  },
+  {
+    "id": "5013",
+    "name": "Dark Schnek Slith",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 68 - 74"
+  },
+  {
+    "id": "5014",
+    "name": "Dark Schnek Prisoner",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 68 - 74"
+  },
+  {
+    "id": "4240",
+    "name": "Kralaboss",
+    "family_name": "Mount Zinit",
+    "level": "Lvl 68 - 73"
+  },
+  {
+    "id": "4267",
+    "name": "Sharkinoa",
+    "family_name": "Mount Zinit",
+    "level": "Lvl 68 - 73"
+  },
+  {
+    "id": "4371",
+    "name": "Gobpuddlet the Hairy",
+    "family_name": "Wild Gobballs",
+    "level": "Lvl 68 - 73"
+  },
+  {
+    "id": "5004",
+    "name": "Impetuous Gobbette",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 68 - 74"
+  },
+  {
+    "id": "5009",
+    "name": "Exiled Whirly Cuatic",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 68 - 74"
+  },
+  {
+    "id": "5113",
+    "name": "Miliboowolf",
+    "family_name": "Sadida Kingdom",
+    "level": "Lvl 68 - 72"
+  },
+  {
+    "id": "4731",
+    "name": "Lokoko",
+    "family_name": "Kokokos",
+    "level": "Lvl 68 - 73"
+  },
+  {
+    "id": "4752",
+    "name": "Sebastian Cwabtellanos",
+    "family_name": "Cwabs",
+    "level": "Lvl 68 - 73"
+  },
+  {
+    "id": "4380",
+    "name": "Red Makhar",
+    "family_name": "Calamar Island",
+    "level": "Lvl 68 - 73"
+  },
+  {
+    "id": "4754",
+    "name": "Royal Cwab",
+    "family_name": "Cwabs",
+    "level": "Lvl 68 - 73"
+  },
+  {
+    "id": "5003",
+    "name": "Impetuous Gobball",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 68 - 74"
+  },
+  {
+    "id": "5006",
+    "name": "Exiled Whirlibig",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 68 - 74"
+  },
+  {
+    "id": "5007",
+    "name": "Exiled Whirlikid",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 68 - 74"
+  },
+  {
+    "id": "4244",
+    "name": "Royal Selachii",
+    "family_name": "Mount Zinit",
+    "level": "Lvl 68 - 73"
+  },
+  {
+    "id": "4766",
+    "name": "Prespic",
+    "family_name": "Cania Creatures",
+    "level": "Lvl 68 - 72"
+  },
+  {
+    "id": "5002",
+    "name": "Impetuous War Chief",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 68 - 74"
+  },
+  {
+    "id": "1152",
+    "name": "Crobak",
+    "family_name": "Crobaks",
+    "level": "Lvl 69"
+  },
+  {
+    "id": "3612",
+    "name": "Crobak",
+    "family_name": "",
+    "level": "Lvl 69"
+  },
+  {
+    "id": "2206",
+    "name": "Djak",
+    "family_name": "Calamar Island",
+    "level": "Lvl 70"
+  },
+  {
+    "id": "3573",
+    "name": "Krobelle",
+    "family_name": "Kelba Peaks",
+    "level": "Lvl 70"
+  },
+  {
+    "id": "3596",
+    "name": "Badskin",
+    "family_name": "Kelba",
+    "level": "Lvl 70"
+  },
+  {
+    "id": "4364",
+    "name": "Scythescraper",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 70"
+  },
+  {
+    "id": "4761",
+    "name": "Glai",
+    "family_name": "Cania Creatures",
+    "level": "Lvl 70 - 74"
+  },
+  {
+    "id": "1787",
+    "name": "Accelerat",
+    "family_name": "Rats",
+    "level": "Lvl 70"
+  },
+  {
+    "id": "2160",
+    "name": "Exotic Albatrocious",
+    "family_name": "Calamar Island",
+    "level": "Lvl 70"
+  },
+  {
+    "id": "3595",
+    "name": "Badaclocom",
+    "family_name": "Kelba",
+    "level": "Lvl 70"
+  },
+  {
+    "id": "3597",
+    "name": "Badgoat",
+    "family_name": "Kelba",
+    "level": "Lvl 70"
+  },
+  {
+    "id": "5111",
+    "name": "Boowolf",
+    "family_name": "Sadida Kingdom",
+    "level": "Lvl 70 - 74"
+  },
+  {
+    "id": "2458",
+    "name": "Dizzy Accelerat",
+    "family_name": "Rats",
+    "level": "Lvl 70"
+  },
+  {
+    "id": "3712",
+    "name": "Case Carrier",
+    "family_name": "Kelba",
+    "level": "Lvl 70"
+  },
+  {
+    "id": "4915",
+    "name": "Big Mushd",
+    "family_name": "Mushdskitos",
+    "level": "Lvl 70 - 74"
+  },
+  {
+    "id": "2192",
+    "name": "Dark Hurl Quartermaster",
+    "family_name": "Calamar Island",
+    "level": "Lvl 70"
+  },
+  {
+    "id": "2208",
+    "name": "Djak",
+    "family_name": "Calamar Island",
+    "level": "Lvl 70"
+  },
+  {
+    "id": "2774",
+    "name": "Thork",
+    "family_name": "Bworks",
+    "level": "Lvl 70"
+  },
+  {
+    "id": "3711",
+    "name": "Box Carrier",
+    "family_name": "Kelba",
+    "level": "Lvl 70"
+  },
+  {
+    "id": "5104",
+    "name": "Hairy Arachnee",
+    "family_name": "Sadida Kingdom",
+    "level": "Lvl 70 - 74"
+  },
+  {
+    "id": "2207",
+    "name": "Djak",
+    "family_name": "Calamar Island",
+    "level": "Lvl 70"
+  },
+  {
+    "id": "4868",
+    "name": "Strichon",
+    "family_name": "Striches",
+    "level": "Lvl 70 - 74"
+  },
+  {
+    "id": "1153",
+    "name": "Crobeak",
+    "family_name": "Crobaks",
+    "level": "Lvl 72"
+  },
+  {
+    "id": "2247",
+    "name": "Radgoat",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 72 - 78"
+  },
+  {
+    "id": "4898",
+    "name": "Famished Miliboowolf",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 72 - 78"
+  },
+  {
+    "id": "1789",
+    "name": "Rattler",
+    "family_name": "Rats",
+    "level": "Lvl 72"
+  },
+  {
+    "id": "4498",
+    "name": "Stray Bow Meow",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 72 - 78"
+  },
+  {
+    "id": "5106",
+    "name": "Minor Arachnee",
+    "family_name": "Sadida Kingdom",
+    "level": "Lvl 72"
+  },
+  {
+    "id": "2259",
+    "name": "Radskin",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 72 - 78"
+  },
+  {
+    "id": "2260",
+    "name": "Radaclocom",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 72 - 78"
+  },
+  {
+    "id": "4892",
+    "name": "Weakened Shusnitch",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 72 - 78"
+  },
+  {
+    "id": "4894",
+    "name": "Weakened Shiemahn",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 72 - 78"
+  },
+  {
+    "id": "2258",
+    "name": "Radenalty",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 72 - 78"
+  },
+  {
+    "id": "2459",
+    "name": "Dizzy Rattler",
+    "family_name": "Rats",
+    "level": "Lvl 72"
+  },
+  {
+    "id": "4897",
+    "name": "Famished Boowolfine",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 72 - 78"
+  },
+  {
+    "id": "4936",
+    "name": "Friar Tubs Brewer",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 72 - 78"
+  },
+  {
+    "id": "4937",
+    "name": "Skidmonk Brewer",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 72 - 78"
+  },
+  {
+    "id": "3609",
+    "name": "Crobeak",
+    "family_name": "",
+    "level": "Lvl 72"
+  },
+  {
+    "id": "4893",
+    "name": "Weakened Ocushu",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 72 - 78"
+  },
+  {
+    "id": "4896",
+    "name": "Famished Boowolf",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 72 - 78"
+  },
+  {
+    "id": "4935",
+    "name": "Grim Preacher Brewer",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 72 - 78"
+  },
+  {
+    "id": "4869",
+    "name": "Thingamastrich",
+    "family_name": "Striches",
+    "level": "Lvl 74 - 78"
+  },
+  {
+    "id": "4762",
+    "name": "Aggressive Blibli",
+    "family_name": "Cania Creatures",
+    "level": "Lvl 74 - 78"
+  },
+  {
+    "id": "4917",
+    "name": "Bloodsucker Tsu Tsu",
+    "family_name": "Mushdskitos",
+    "level": "Lvl 74 - 78"
+  },
+  {
+    "id": "5110",
+    "name": "Small Arachnee",
+    "family_name": "Sadida Kingdom",
+    "level": "Lvl 74"
+  },
+  {
+    "id": "2457",
+    "name": "Dizzy Blimprat",
+    "family_name": "Rats",
+    "level": "Lvl 74"
+  },
+  {
+    "id": "5105",
+    "name": "Major Arachnee",
+    "family_name": "Sadida Kingdom",
+    "level": "Lvl 74 - 78"
+  },
+  {
+    "id": "5112",
+    "name": "Boowolfine",
+    "family_name": "Sadida Kingdom",
+    "level": "Lvl 74 - 78"
+  },
+  {
+    "id": "1790",
+    "name": "Blimprat",
+    "family_name": "Rats",
+    "level": "Lvl 74"
+  },
+  {
+    "id": "5108",
+    "name": "Dominant Arachnee",
+    "family_name": "Sadida Kingdom",
+    "level": "Lvl 74"
+  },
+  {
+    "id": "2195",
+    "name": "Captain of the Dark Hurl",
+    "family_name": "Calamar Island",
+    "level": "Lvl 75"
+  },
+  {
+    "id": "1155",
+    "name": "Crobak Chief",
+    "family_name": "Crobaks",
+    "level": "Lvl 75"
+  },
+  {
+    "id": "3611",
+    "name": "Crobak Chief",
+    "family_name": "",
+    "level": "Lvl 75"
+  },
+  {
+    "id": "3708",
+    "name": "Araknomecha",
+    "family_name": "Kelba Peaks",
+    "level": "Lvl 75"
+  },
+  {
+    "id": "3709",
+    "name": "Korbot K-800",
+    "family_name": "Kelba Peaks",
+    "level": "Lvl 75"
+  },
+  {
+    "id": "3568",
+    "name": "Krawmagnon",
+    "family_name": "Kelba Peaks",
+    "level": "Lvl 75"
+  },
+  {
+    "id": "3713",
+    "name": "Borbat",
+    "family_name": "Kelba Peaks",
+    "level": "Lvl 75"
+  },
+  {
+    "id": "2710",
+    "name": "Decepticod",
+    "family_name": "Alkatrool",
+    "level": "Lvl 75"
+  },
+  {
+    "id": "2126",
+    "name": "Dominant Strich",
+    "family_name": "Striches",
+    "level": "Lvl 77 - 82"
+  },
+  {
+    "id": "2129",
+    "name": "Ratagasd the Brown",
+    "family_name": "Rats",
+    "level": "Lvl 78 - 83"
+  },
+  {
+    "id": "2440",
+    "name": "Troolk Hoogan",
+    "family_name": "",
+    "level": "Lvl 78 - 82"
+  },
+  {
+    "id": "3702",
+    "name": "Krobelle Adonni",
+    "family_name": "Kelba Peaks",
+    "level": "Lvl 78 - 83"
+  },
+  {
+    "id": "2120",
+    "name": "Dominant Mushd",
+    "family_name": "Mushdskitos",
+    "level": "Lvl 78 - 83"
+  },
+  {
+    "id": "2132",
+    "name": "Corbiyar the Smuggler",
+    "family_name": "Crobaks",
+    "level": "Lvl 78 - 83"
+  },
+  {
+    "id": "2441",
+    "name": "The Undertroolker",
+    "family_name": "",
+    "level": "Lvl 78 - 82"
+  },
+  {
+    "id": "2442",
+    "name": "Rey Mystroolrio",
+    "family_name": "",
+    "level": "Lvl 78 - 82"
+  },
+  {
+    "id": "3571",
+    "name": "Krocky",
+    "family_name": "Kelba Peaks",
+    "level": "Lvl 80"
+  },
+  {
+    "id": "3696",
+    "name": "Korbot K-800",
+    "family_name": "Crobaks",
+    "level": "Lvl 80"
+  },
+  {
+    "id": "3707",
+    "name": "Kraw-gyver",
+    "family_name": "Kelba Peaks",
+    "level": "Lvl 80"
+  },
+  {
+    "id": "4249",
+    "name": "Schnek Egg",
+    "family_name": "Mount Zinit",
+    "level": "Lvl 80"
+  },
+  {
+    "id": "5115",
+    "name": "Moon",
+    "family_name": "Sadida Kingdom",
+    "level": "Lvl 80"
+  },
+  {
+    "id": "4910",
+    "name": "Scarafly",
+    "family_name": "Scaras",
+    "level": "Lvl 81"
+  },
+  {
+    "id": "4245",
+    "name": "Mini Schnek",
+    "family_name": "Mount Zinit",
+    "level": "Lvl 81"
+  },
+  {
+    "id": "4912",
+    "name": "Scaralady",
+    "family_name": "Scaras",
+    "level": "Lvl 81 - 85"
+  },
+  {
+    "id": "4485",
+    "name": "Washed-Up Snailmet",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 82 - 93"
+  },
+  {
+    "id": "2408",
+    "name": "Captain of the Tyr Anis",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 82 - 93"
+  },
+  {
+    "id": "4426",
+    "name": "Forfut Lunar Priestess",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 82 - 93"
+  },
+  {
+    "id": "4484",
+    "name": "Washed-Up Darth Mussel",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 82 - 93"
+  },
+  {
+    "id": "2406",
+    "name": "Tyr Anis Deckhand",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 82 - 93"
+  },
+  {
+    "id": "4425",
+    "name": "Forfut Boowerewolf",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 82 - 93"
+  },
+  {
+    "id": "2407",
+    "name": "Tyr Anis Seaman",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 82 - 93"
+  },
+  {
+    "id": "4424",
+    "name": "Forfut Miliboowerewolf",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 82 - 93"
+  },
+  {
+    "id": "4486",
+    "name": "Washed-Up Kralove",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 82 - 93"
+  },
+  {
+    "id": "1778",
+    "name": "Skidmonk",
+    "family_name": "Monks",
+    "level": "Lvl 83 - 87"
+  },
+  {
+    "id": "1829",
+    "name": "Borbat",
+    "family_name": "Ghouls",
+    "level": "Lvl 83 - 87"
+  },
+  {
+    "id": "2462",
+    "name": "Baby Sludgeworm",
+    "family_name": "Bilbibeach monsters",
+    "level": "Lvl 83 - 87"
+  },
+  {
+    "id": "3733",
+    "name": "Gore-Goner",
+    "family_name": "Zoogeymen",
+    "level": "Lvl 83 - 87"
+  },
+  {
+    "id": "4370",
+    "name": "Orrokimaru the Creeper",
+    "family_name": "Kelba Peaks",
+    "level": "Lvl 83 - 88"
+  },
+  {
+    "id": "4763",
+    "name": "Royal Blibli",
+    "family_name": "Cania Creatures",
+    "level": "Lvl 83 - 88"
+  },
+  {
+    "id": "4918",
+    "name": "Tsu Tsu Tsar",
+    "family_name": "Mushdskitos",
+    "level": "Lvl 83 - 88"
+  },
+  {
+    "id": "5023",
+    "name": "Ghostof Assassin",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 83 - 89"
+  },
+  {
+    "id": "5114",
+    "name": "Giant Moon",
+    "family_name": "Sadida Kingdom",
+    "level": "Lvl 83 - 88"
+  },
+  {
+    "id": "1631",
+    "name": "Stodgy the Podgy",
+    "family_name": "Striches",
+    "level": "Lvl 83 - 88"
+  },
+  {
+    "id": "3701",
+    "name": "Tigri Smisse",
+    "family_name": "Crobaks",
+    "level": "Lvl 83 - 88"
+  },
+  {
+    "id": "4248",
+    "name": "Gunky Schnek",
+    "family_name": "Mount Zinit",
+    "level": "Lvl 83 - 87"
+  },
+  {
+    "id": "4481",
+    "name": "Ratafia the Unsteady",
+    "family_name": "Rats",
+    "level": "Lvl 83 - 88"
+  },
+  {
+    "id": "4871",
+    "name": "Her Highstrichness Ungaria O'Stricha",
+    "family_name": "Striches",
+    "level": "Lvl 83 - 88"
+  },
+  {
+    "id": "5025",
+    "name": "Rattler",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 83 - 89"
+  },
+  {
+    "id": "5026",
+    "name": "Haunted Tomb",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 83 - 89"
+  },
+  {
+    "id": "5109",
+    "name": "Mahgik Trichnee the Magician",
+    "family_name": "Sadida Kingdom",
+    "level": "Lvl 83 - 88"
+  },
+  {
+    "id": "1639",
+    "name": "Mushdmallow",
+    "family_name": "Mushdskitos",
+    "level": "Lvl 83 - 88"
+  },
+  {
+    "id": "4389",
+    "name": "Kronin Berg",
+    "family_name": "Monks",
+    "level": "Lvl 83 - 87"
+  },
+  {
+    "id": "4742",
+    "name": "Chafer Lancer",
+    "family_name": "Chafers",
+    "level": "Lvl 83 - 87"
+  },
+  {
+    "id": "4883",
+    "name": "Mine Chafer Lancer",
+    "family_name": "Chafers",
+    "level": "Lvl 83 - 87"
+  },
+  {
+    "id": "5021",
+    "name": "Ghostof Scout",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 83 - 89"
+  },
+  {
+    "id": "5022",
+    "name": "Ghostof Healer",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 83 - 89"
+  },
+  {
+    "id": "4765",
+    "name": "Boarnigen the Damasker",
+    "family_name": "Cania Creatures",
+    "level": "Lvl 83 - 88"
+  },
+  {
+    "id": "5024",
+    "name": "Rat'Ibia",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 83 - 89"
+  },
+  {
+    "id": "5107",
+    "name": "Black Widow",
+    "family_name": "Sadida Kingdom",
+    "level": "Lvl 83 - 88"
+  },
+  {
+    "id": "5126",
+    "name": "Grizzled Auburn Boowerewolf",
+    "family_name": "Sadida Kingdom",
+    "level": "Lvl 83 - 88"
+  },
+  {
+    "id": "5127",
+    "name": "Mulligan the Discarded",
+    "family_name": "Sadida Kingdom",
+    "level": "Lvl 83 - 88"
+  },
+  {
+    "id": "2313",
+    "name": "Ratical",
+    "family_name": "Rats",
+    "level": "Lvl 84"
+  },
+  {
+    "id": "1777",
+    "name": "Grim Preacher",
+    "family_name": "Monks",
+    "level": "Lvl 85 - 89"
+  },
+  {
+    "id": "1827",
+    "name": "Ghoul",
+    "family_name": "Ghouls",
+    "level": "Lvl 85 - 89"
+  },
+  {
+    "id": "3587",
+    "name": "Grand Orrok",
+    "family_name": "Kelba Peaks",
+    "level": "Lvl 85"
+  },
+  {
+    "id": "3734",
+    "name": "Gargrowler",
+    "family_name": "Zoogeymen",
+    "level": "Lvl 85 - 89"
+  },
+  {
+    "id": "4283",
+    "name": "Scythescraper",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 85"
+  },
+  {
+    "id": "2463",
+    "name": "Vermicious Sludgeworm",
+    "family_name": "Bilbibeach monsters",
+    "level": "Lvl 85 - 89"
+  },
+  {
+    "id": "1776",
+    "name": "Felonious Monk",
+    "family_name": "Monks",
+    "level": "Lvl 85 - 89"
+  },
+  {
+    "id": "4247",
+    "name": "Slith",
+    "family_name": "Mount Zinit",
+    "level": "Lvl 85 - 89"
+  },
+  {
+    "id": "4250",
+    "name": "Schnek Head",
+    "family_name": "Mount Zinit",
+    "level": "Lvl 85 - 89"
+  },
+  {
+    "id": "4881",
+    "name": "Mine Chafer Archer",
+    "family_name": "Chafers",
+    "level": "Lvl 85 - 89"
+  },
+  {
+    "id": "1825",
+    "name": "Beefy Borbat",
+    "family_name": "Ghouls",
+    "level": "Lvl 85 - 89"
+  },
+  {
+    "id": "2460",
+    "name": "Muss Tashio",
+    "family_name": "Bilbibeach monsters",
+    "level": "Lvl 85 - 89"
+  },
+  {
+    "id": "4291",
+    "name": "Mount Zinit Larva",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 85"
+  },
+  {
+    "id": "4740",
+    "name": "Chafer Archer",
+    "family_name": "Chafers",
+    "level": "Lvl 85 - 89"
+  },
+  {
+    "id": "4909",
+    "name": "Scaraboss",
+    "family_name": "Scaras",
+    "level": "Lvl 86 - 90"
+  },
+  {
+    "id": "4422",
+    "name": "Blond Felonious Monk",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 87 - 93"
+  },
+  {
+    "id": "4492",
+    "name": "Reveler Tourist",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 87 - 93"
+  },
+  {
+    "id": "4508",
+    "name": "Cold Water Izungry",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 87 - 93"
+  },
+  {
+    "id": "4509",
+    "name": "Cold Water Zordfish",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 87 - 93"
+  },
+  {
+    "id": "4420",
+    "name": "Grimm Blond",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 87 - 93"
+  },
+  {
+    "id": "4421",
+    "name": "Friar Blond",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 87 - 93"
+  },
+  {
+    "id": "4423",
+    "name": "Humonk Ardent",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 87 - 93"
+  },
+  {
+    "id": "4946",
+    "name": "Viscous Gunky Schnek",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 87 - 93"
+  },
+  {
+    "id": "4948",
+    "name": "Patched-Up Flatissier",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 87 - 93"
+  },
+  {
+    "id": "4491",
+    "name": "Nurse Tourist",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 87 - 93"
+  },
+  {
+    "id": "4945",
+    "name": "Viscous Slith",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 87 - 93"
+  },
+  {
+    "id": "4947",
+    "name": "Patched-Up Gargrowler",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 87 - 93"
+  },
+  {
+    "id": "4950",
+    "name": "Noxious Crobak",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 87 - 93"
+  },
+  {
+    "id": "4488",
+    "name": "Nurse Tourist",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 87 - 93"
+  },
+  {
+    "id": "4487",
+    "name": "Surfer Tourist",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 87 - 95"
+  },
+  {
+    "id": "4489",
+    "name": "Reveler Tourist",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 87 - 93"
+  },
+  {
+    "id": "4490",
+    "name": "Surfer Tourist",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 87 - 95"
+  },
+  {
+    "id": "4949",
+    "name": "Noxious Crobeak",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 87 - 93"
+  },
+  {
+    "id": "4246",
+    "name": "Magischnek",
+    "family_name": "Mount Zinit",
+    "level": "Lvl 89 - 93"
+  },
+  {
+    "id": "4741",
+    "name": "Elite Chafer",
+    "family_name": "Chafers",
+    "level": "Lvl 89 - 93"
+  },
+  {
+    "id": "5020",
+    "name": "Dominant Chafer",
+    "family_name": "Chafers",
+    "level": "Lvl 89 - 93"
+  },
+  {
+    "id": "1779",
+    "name": "Friar Tubs",
+    "family_name": "Monks",
+    "level": "Lvl 89 - 93"
+  },
+  {
+    "id": "2461",
+    "name": "Clammer Shark",
+    "family_name": "Bilbibeach monsters",
+    "level": "Lvl 89 - 93"
+  },
+  {
+    "id": "3732",
+    "name": "Flatissier",
+    "family_name": "Zoogeymen",
+    "level": "Lvl 89 - 93"
+  },
+  {
+    "id": "4882",
+    "name": "Elite Mine Chafer",
+    "family_name": "Chafers",
+    "level": "Lvl 89 - 93"
+  },
+  {
+    "id": "1828",
+    "name": "Ghourmand",
+    "family_name": "Ghouls",
+    "level": "Lvl 89 - 93"
+  },
+  {
+    "id": "4388",
+    "name": "Rack Istley",
+    "family_name": "Monks",
+    "level": "Lvl 89 - 93"
+  },
+  {
+    "id": "2443",
+    "name": "El Pochito",
+    "family_name": "",
+    "level": "Lvl 90"
+  },
+  {
+    "id": "4289",
+    "name": "Mount Zinit Moskito",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 90"
+  },
+  {
+    "id": "4290",
+    "name": "Tsu Tsu Sun",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 90"
+  },
+  {
+    "id": "4911",
+    "name": "Scaramel",
+    "family_name": "Scaras",
+    "level": "Lvl 91 - 95"
+  },
+  {
+    "id": "2133",
+    "name": "Refrighteration the Cold",
+    "family_name": "Ghouls",
+    "level": "Lvl 93 - 98"
+  },
+  {
+    "id": "2125",
+    "name": "Dominant Scara",
+    "family_name": "Scaras",
+    "level": "Lvl 93 - 98"
+  },
+  {
+    "id": "4281",
+    "name": "Schnekzebub",
+    "family_name": "Mount Zinit",
+    "level": "Lvl 93 - 98"
+  },
+  {
+    "id": "1750",
+    "name": "Chafaldrag the Charming",
+    "family_name": "Chafers",
+    "level": "Lvl 95"
+  },
+  {
+    "id": "2398",
+    "name": "Tyr Anis Deckhand",
+    "family_name": "Frigost",
+    "level": "Lvl 95"
+  },
+  {
+    "id": "1836",
+    "name": "Vampyro",
+    "family_name": "Ghouls",
+    "level": "Lvl 95"
+  },
+  {
+    "id": "2436",
+    "name": "Tyr Anis Pathfinder",
+    "family_name": "Frigost",
+    "level": "Lvl 95"
+  },
+  {
+    "id": "2708",
+    "name": "Merkator",
+    "family_name": "Alkatrool",
+    "level": "Lvl 95"
+  },
+  {
+    "id": "4465",
+    "name": "Murdered Chafer",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 97 - 108"
+  },
+  {
+    "id": "5008",
+    "name": "Dominant Magik Riktus",
+    "family_name": "Riktus",
+    "level": "Lvl 97 - 105"
+  },
+  {
+    "id": "2487",
+    "name": "Thor Nado",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 97 - 108"
+  },
+  {
+    "id": "1166",
+    "name": "Badenalty",
+    "family_name": "Riktus",
+    "level": "Lvl 97 - 105"
+  },
+  {
+    "id": "1167",
+    "name": "Badskin",
+    "family_name": "Riktus",
+    "level": "Lvl 97 - 105"
+  },
+  {
+    "id": "1169",
+    "name": "Badaclocom",
+    "family_name": "Riktus",
+    "level": "Lvl 97 - 105"
+  },
+  {
+    "id": "1168",
+    "name": "Badgoat",
+    "family_name": "Riktus",
+    "level": "Lvl 97 - 105"
+  },
+  {
+    "id": "4464",
+    "name": "Burned Chafer",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 97 - 108"
+  },
+  {
+    "id": "4466",
+    "name": "Drowned Chafer",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 97 - 108"
+  },
+  {
+    "id": "4497",
+    "name": "Deformed Crackmite",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 97 - 108"
+  },
+  {
+    "id": "2488",
+    "name": "Blomey Down",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 97 - 108"
+  },
+  {
+    "id": "2359",
+    "name": "Brrrbliwi",
+    "family_name": "Brrrblis",
+    "level": "Lvl 98 - 102"
+  },
+  {
+    "id": "2464",
+    "name": "Pearly Bilbimussel",
+    "family_name": "Bilbibeach monsters",
+    "level": "Lvl 98 - 103"
+  },
+  {
+    "id": "1749",
+    "name": "Scaramel the Melty",
+    "family_name": "Scaras",
+    "level": "Lvl 98 - 103"
+  },
+  {
+    "id": "2083",
+    "name": "Whispered Crackrock",
+    "family_name": "Shhhudoku Kingdom",
+    "level": "Lvl 98 - 102"
+  },
+  {
+    "id": "2437",
+    "name": "Tyr Anis Scout",
+    "family_name": "Frigost",
+    "level": "Lvl 98"
+  },
+  {
+    "id": "3735",
+    "name": "Viktoria-Franka Enstein",
+    "family_name": "Zoogeymen",
+    "level": "Lvl 98 - 103"
+  },
+  {
+    "id": "2075",
+    "name": "Crossbow Whisperers",
+    "family_name": "Shhhudoku Kingdom",
+    "level": "Lvl 98 - 102"
+  },
+  {
+    "id": "2364",
+    "name": "Crobamoth",
+    "family_name": "Boohemoth",
+    "level": "Lvl 98 - 102"
+  },
+  {
+    "id": "4280",
+    "name": "Schnek Sy",
+    "family_name": "Mount Zinit",
+    "level": "Lvl 98 - 103"
+  },
+  {
+    "id": "4913",
+    "name": "Scarador",
+    "family_name": "Scaras",
+    "level": "Lvl 98 - 103"
+  },
+  {
+    "id": "4970",
+    "name": "Numb Wabbit",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 98 - 104"
+  },
+  {
+    "id": "4971",
+    "name": "Numb Wo Wabbit",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 98 - 104"
+  },
+  {
+    "id": "4251",
+    "name": "Queen Schnek",
+    "family_name": "Mount Zinit",
+    "level": "Lvl 98 - 103"
+  },
+  {
+    "id": "5019",
+    "name": "Chaferime the Slow",
+    "family_name": "Chafers",
+    "level": "Lvl 98 - 103"
+  },
+  {
+    "id": "1786",
+    "name": "Nun",
+    "family_name": "Monks",
+    "level": "Lvl 98 - 103"
+  },
+  {
+    "id": "2400",
+    "name": "Tyr Anis Seaman",
+    "family_name": "Frigost",
+    "level": "Lvl 98"
+  },
+  {
+    "id": "4393",
+    "name": "The White Lady",
+    "family_name": "Zoogeymen",
+    "level": "Lvl 98 - 103"
+  },
+  {
+    "id": "4739",
+    "name": "Chaferfu, Chafer King",
+    "family_name": "Chafers",
+    "level": "Lvl 98 - 103"
+  },
+  {
+    "id": "1358",
+    "name": "Lemon Jelly",
+    "family_name": "Jellies",
+    "level": "Lvl 100 - 104"
+  },
+  {
+    "id": "2360",
+    "name": "Brrrbli",
+    "family_name": "Brrrblis",
+    "level": "Lvl 100 - 104"
+  },
+  {
+    "id": "3606",
+    "name": "Etnop - the Meridia of Eggs",
+    "family_name": "Events",
+    "level": "Lvl 100"
+  },
+  {
+    "id": "4042",
+    "name": "Skrapur Kutmairo",
+    "family_name": "Ogrest's Cult?",
+    "level": "Lvl 100"
+  },
+  {
+    "id": "4044",
+    "name": "Tonguetwist LaMouth",
+    "family_name": "Ogrest's Cult?",
+    "level": "Lvl 100"
+  },
+  {
+    "id": "1339",
+    "name": "Blue Raspberry Jelly",
+    "family_name": "Jellies",
+    "level": "Lvl 100 - 104"
+  },
+  {
+    "id": "2078",
+    "name": "Whispered Crackler",
+    "family_name": "Shhhudoku Kingdom",
+    "level": "Lvl 100 - 104"
+  },
+  {
+    "id": "2088",
+    "name": "The Lisper",
+    "family_name": "Shhhudoku Kingdom",
+    "level": "Lvl 100"
+  },
+  {
+    "id": "2465",
+    "name": "Blue Raspberry Bilbiboy",
+    "family_name": "Bilbiboyz",
+    "level": "Lvl 100 - 104"
+  },
+  {
+    "id": "2466",
+    "name": "Mint Bilbigirl",
+    "family_name": "Bilbiboyz",
+    "level": "Lvl 100 - 104"
+  },
+  {
+    "id": "2468",
+    "name": "Lemon Bilbigirl",
+    "family_name": "Bilbiboyz",
+    "level": "Lvl 100 - 104"
+  },
+  {
+    "id": "3007",
+    "name": "Shiemahn",
+    "family_name": "Shushus",
+    "level": "Lvl 100"
+  },
+  {
+    "id": "3009",
+    "name": "Shusnitch",
+    "family_name": "Shushus",
+    "level": "Lvl 100"
+  },
+  {
+    "id": "2362",
+    "name": "Frozenhorn Brrrbli",
+    "family_name": "Brrrblis",
+    "level": "Lvl 100 - 104"
+  },
+  {
+    "id": "2401",
+    "name": "Captain of the Tyr Anis",
+    "family_name": "Frigost",
+    "level": "Lvl 100"
+  },
+  {
+    "id": "2438",
+    "name": "Tyr Anis Guide",
+    "family_name": "Frigost",
+    "level": "Lvl 100"
+  },
+  {
+    "id": "2467",
+    "name": "Strawberry Bilbiboy",
+    "family_name": "Bilbiboyz",
+    "level": "Lvl 100 - 104"
+  },
+  {
+    "id": "3008",
+    "name": "Ocushu",
+    "family_name": "Shushus",
+    "level": "Lvl 100"
+  },
+  {
+    "id": "4308",
+    "name": "Nostalgic Gravedigger",
+    "family_name": "Mount Zinit",
+    "level": "Lvl 100"
+  },
+  {
+    "id": "1340",
+    "name": "Mint Jelly",
+    "family_name": "Jellies",
+    "level": "Lvl 100 - 104"
+  },
+  {
+    "id": "1341",
+    "name": "Strawberry Jelly",
+    "family_name": "Jellies",
+    "level": "Lvl 100 - 104"
+  },
+  {
+    "id": "2076",
+    "name": "Standard-Bearing Whisperer",
+    "family_name": "Shhhudoku Kingdom",
+    "level": "Lvl 100 - 104"
+  },
+  {
+    "id": "2366",
+    "name": "Boohemoon",
+    "family_name": "Boohemoth",
+    "level": "Lvl 100 - 104"
+  },
+  {
+    "id": "4016",
+    "name": "Gnat - Meridia of Shells",
+    "family_name": "Events",
+    "level": "Lvl 100"
+  },
+  {
+    "id": "4040",
+    "name": "Mechanical Biscuit Cushion",
+    "family_name": "Ogrest's Cult?",
+    "level": "Lvl 100"
+  },
+  {
+    "id": "4043",
+    "name": "Savhanna the Silky",
+    "family_name": "Ogrest's Cult?",
+    "level": "Lvl 100"
+  },
+  {
+    "id": "4366",
+    "name": "Scythescraper",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 100"
+  },
+  {
+    "id": "1852",
+    "name": "Madame Pipi",
+    "family_name": "Trool Fair",
+    "level": "Lvl 100"
+  },
+  {
+    "id": "2365",
+    "name": "Crobamoon",
+    "family_name": "Boohemoth",
+    "level": "Lvl 100 - 104"
+  },
+  {
+    "id": "2827",
+    "name": "Spectrex the Tormentor",
+    "family_name": "Shushus",
+    "level": "Lvl 100 - 170"
+  },
+  {
+    "id": "4032",
+    "name": "Sister Kate",
+    "family_name": "Events",
+    "level": "Lvl 100"
+  },
+  {
+    "id": "4039",
+    "name": "Charles-Henri of Vileardent",
+    "family_name": "Ogrest's Cult?",
+    "level": "Lvl 100"
+  },
+  {
+    "id": "4045",
+    "name": "Bodyguard",
+    "family_name": "Ogrest's Cult?",
+    "level": "Lvl 100"
+  },
+  {
+    "id": "4441",
+    "name": "Migratory Crobak",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 102 - 108"
+  },
+  {
+    "id": "4496",
+    "name": "Soul from the Past",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 102 - 108"
+  },
+  {
+    "id": "4467",
+    "name": "Evanescent Bellaphone",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 102 - 108"
+  },
+  {
+    "id": "4493",
+    "name": "Soul from the Past",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 102 - 108"
+  },
+  {
+    "id": "4495",
+    "name": "Soul from the Past",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 102 - 108"
+  },
+  {
+    "id": "4904",
+    "name": "Vengeful Puddly Chief",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 102 - 108"
+  },
+  {
+    "id": "4443",
+    "name": "Migratory Crobeak",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 102 - 108"
+  },
+  {
+    "id": "4903",
+    "name": "Vengeful Puddly Warrior",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 102 - 108"
+  },
+  {
+    "id": "4442",
+    "name": "Migratory Crobak Chief",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 102 - 108"
+  },
+  {
+    "id": "4494",
+    "name": "Soul from the Past",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 102 - 108"
+  },
+  {
+    "id": "2074",
+    "name": "Infantry Whisperers",
+    "family_name": "Shhhudoku Kingdom",
+    "level": "Lvl 104 - 108"
+  },
+  {
+    "id": "2084",
+    "name": "Big Whispered Crackler",
+    "family_name": "Shhhudoku Kingdom",
+    "level": "Lvl 104 - 108"
+  },
+  {
+    "id": "2361",
+    "name": "Steely Brrrbli",
+    "family_name": "Brrrblis",
+    "level": "Lvl 104 - 108"
+  },
+  {
+    "id": "2367",
+    "name": "Enraged Boohemoth",
+    "family_name": "Boohemoth",
+    "level": "Lvl 104 - 108"
+  },
+  {
+    "id": "2372",
+    "name": "Pumbrrr",
+    "family_name": "Brrrblis",
+    "level": "Lvl 108 - 113"
+  },
+  {
+    "id": "2475",
+    "name": "Licorice Jelly",
+    "family_name": "Jellies",
+    "level": "Lvl 108 - 113"
+  },
+  {
+    "id": "2134",
+    "name": "Chuchen the Independent",
+    "family_name": "Shhhudoku Kingdom",
+    "level": "Lvl 108 - 113"
+  },
+  {
+    "id": "4500",
+    "name": "Corberg the Treasure Diver",
+    "family_name": "Boohemoth",
+    "level": "Lvl 108 - 113"
+  },
+  {
+    "id": "4716",
+    "name": "Dinky Puddly",
+    "family_name": "Puddly",
+    "level": "Lvl 109 - 113"
+  },
+  {
+    "id": "2350",
+    "name": "Mechabra",
+    "family_name": "Mechas",
+    "level": "Lvl 110"
+  },
+  {
+    "id": "4514",
+    "name": "Laboratory Greedodrip",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 112 - 123"
+  },
+  {
+    "id": "4515",
+    "name": "Laboratory Greedoblimp",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 112 - 123"
+  },
+  {
+    "id": "4513",
+    "name": "Laboratory Greedoball",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 112 - 123"
+  },
+  {
+    "id": "2980",
+    "name": "Stasified Tornado",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 112 - 123"
+  },
+  {
+    "id": "2368",
+    "name": "YeCh'Ti'Wawa",
+    "family_name": "Boohemoth",
+    "level": "Lvl 113 - 118"
+  },
+  {
+    "id": "2489",
+    "name": "Bow Meow Loving Whisperer",
+    "family_name": "Shhhudoku Kingdom",
+    "level": "Lvl 113 - 118"
+  },
+  {
+    "id": "4997",
+    "name": "Wild Baby Tofu",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 113 - 119"
+  },
+  {
+    "id": "5010",
+    "name": "Chapoto the Friendly",
+    "family_name": "Riktus",
+    "level": "Lvl 113 - 118"
+  },
+  {
+    "id": "2384",
+    "name": "Fhenris the Lone Boohemoth",
+    "family_name": "Boohemoth",
+    "level": "Lvl 113 - 118"
+  },
+  {
+    "id": "4390",
+    "name": "Prince Jellu",
+    "family_name": "Jellies",
+    "level": "Lvl 113 - 118"
+  },
+  {
+    "id": "4520",
+    "name": "Magik Hat",
+    "family_name": "Riktus",
+    "level": "Lvl 113 - 118"
+  },
+  {
+    "id": "4996",
+    "name": "Wild Tofoone",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 113 - 119"
+  },
+  {
+    "id": "2339",
+    "name": "Crackmite",
+    "family_name": "Polar Cracklers",
+    "level": "Lvl 113 - 117"
+  },
+  {
+    "id": "2346",
+    "name": "Northern Archer",
+    "family_name": "Northern Chafers",
+    "level": "Lvl 113 - 117"
+  },
+  {
+    "id": "2363",
+    "name": "Brrrbley Spears",
+    "family_name": "Brrrblis",
+    "level": "Lvl 113 - 118"
+  },
+  {
+    "id": "2469",
+    "name": "Bilby Queen",
+    "family_name": "Bilbiboyz",
+    "level": "Lvl 113 - 118"
+  },
+  {
+    "id": "4718",
+    "name": "Puddly Warrior",
+    "family_name": "Puddly",
+    "level": "Lvl 113 - 117"
+  },
+  {
+    "id": "4994",
+    "name": "Koutoulou",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 113 - 119"
+  },
+  {
+    "id": "4995",
+    "name": "Wild Tofu",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 113 - 119"
+  },
+  {
+    "id": "4228",
+    "name": "Whirlikid",
+    "family_name": "Mount Zinit",
+    "level": "Lvl 113 - 117"
+  },
+  {
+    "id": "4381",
+    "name": "Robrrrt the Brrrave",
+    "family_name": "Brrrblis",
+    "level": "Lvl 113 - 118"
+  },
+  {
+    "id": "4726",
+    "name": "Bernardo dia Reya",
+    "family_name": "Snappers",
+    "level": "Lvl 113 - 117"
+  },
+  {
+    "id": "2351",
+    "name": "Mechrobak",
+    "family_name": "Mechas",
+    "level": "Lvl 114"
+  },
+  {
+    "id": "2340",
+    "name": "Polar Crackern",
+    "family_name": "Polar Cracklers",
+    "level": "Lvl 115 - 119"
+  },
+  {
+    "id": "4294",
+    "name": "Ancestral Blibli",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 115"
+  },
+  {
+    "id": "4725",
+    "name": "Don Puffnando",
+    "family_name": "Snappers",
+    "level": "Lvl 115 - 119"
+  },
+  {
+    "id": "4230",
+    "name": "Whirly Cuatic",
+    "family_name": "Mount Zinit",
+    "level": "Lvl 115 - 119"
+  },
+  {
+    "id": "2341",
+    "name": "Cracktite",
+    "family_name": "Polar Cracklers",
+    "level": "Lvl 115 - 119"
+  },
+  {
+    "id": "2345",
+    "name": "Northern Guard",
+    "family_name": "Northern Chafers",
+    "level": "Lvl 115 - 119"
+  },
+  {
+    "id": "2967",
+    "name": "Schanker",
+    "family_name": "Ohwymi",
+    "level": "Lvl 115"
+  },
+  {
+    "id": "4719",
+    "name": "Mama Puddly",
+    "family_name": "Puddly",
+    "level": "Lvl 115 - 119"
+  },
+  {
+    "id": "2344",
+    "name": "Northern Brute",
+    "family_name": "Northern Chafers",
+    "level": "Lvl 115 - 119"
+  },
+  {
+    "id": "4284",
+    "name": "Scythescraper",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 115"
+  },
+  {
+    "id": "4723",
+    "name": "Zordfish",
+    "family_name": "Snappers",
+    "level": "Lvl 115 - 119"
+  },
+  {
+    "id": "4926",
+    "name": "Violent Taur",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 117 - 123"
+  },
+  {
+    "id": "2352",
+    "name": "Mechanistro",
+    "family_name": "Mechas",
+    "level": "Lvl 117"
+  },
+  {
+    "id": "2968",
+    "name": "Moloch",
+    "family_name": "Ohwymi",
+    "level": "Lvl 117"
+  },
+  {
+    "id": "4925",
+    "name": "Massive Taur",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 117 - 123"
+  },
+  {
+    "id": "4939",
+    "name": "Bloodthirsty Hammer Selachii",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 117 - 123"
+  },
+  {
+    "id": "4938",
+    "name": "Bloodthirsty Spear Selachii",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 117 - 123"
+  },
+  {
+    "id": "4940",
+    "name": "Bloodthirsty Sweetlachii",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 117 - 123"
+  },
+  {
+    "id": "4444",
+    "name": "Flibustrool",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 118 - 123"
+  },
+  {
+    "id": "4518",
+    "name": "Warrior Grambo",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 118 - 123"
+  },
+  {
+    "id": "4445",
+    "name": "Piratrool",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 118 - 123"
+  },
+  {
+    "id": "4516",
+    "name": "Noxine",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 118 - 123"
+  },
+  {
+    "id": "1345",
+    "name": "Emperor Jellix",
+    "family_name": "Jellies",
+    "level": "Lvl 118 - 123"
+  },
+  {
+    "id": "4517",
+    "name": "Grambo Assassin",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 118 - 123"
+  },
+  {
+    "id": "2342",
+    "name": "Crackchok",
+    "family_name": "Polar Cracklers",
+    "level": "Lvl 119 - 123"
+  },
+  {
+    "id": "2969",
+    "name": "Castupod",
+    "family_name": "Ohwymi",
+    "level": "Lvl 119"
+  },
+  {
+    "id": "4717",
+    "name": "Puddly Chief",
+    "family_name": "Puddly",
+    "level": "Lvl 119 - 123"
+  },
+  {
+    "id": "4229",
+    "name": "Whirlibig",
+    "family_name": "Mount Zinit",
+    "level": "Lvl 119 - 123"
+  },
+  {
+    "id": "4724",
+    "name": "Sergeant Izungry",
+    "family_name": "Snappers",
+    "level": "Lvl 119 - 123"
+  },
+  {
+    "id": "2559",
+    "name": "Black Tiwabbit",
+    "family_name": "Wabbit Island",
+    "level": "Lvl 120"
+  },
+  {
+    "id": "4293",
+    "name": "Bwork Warrior",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 120"
+  },
+  {
+    "id": "2100",
+    "name": "Master Shhhudoku",
+    "family_name": "Shhhudoku Kingdom",
+    "level": "Lvl 120"
+  },
+  {
+    "id": "4292",
+    "name": "Bwork Bomber",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 120"
+  },
+  {
+    "id": "2353",
+    "name": "Mechazerker",
+    "family_name": "Mechas",
+    "level": "Lvl 120"
+  },
+  {
+    "id": "2970",
+    "name": "Pampastuc",
+    "family_name": "Ohwymi",
+    "level": "Lvl 121"
+  },
+  {
+    "id": "2560",
+    "name": "Black Wabbit",
+    "family_name": "Wabbit Island",
+    "level": "Lvl 122"
+  },
+  {
+    "id": "4384",
+    "name": "Mechazord the Combined",
+    "family_name": "Mechas",
+    "level": "Lvl 123 - 128"
+  },
+  {
+    "id": "2123",
+    "name": "Dominant Puddly",
+    "family_name": "Puddly",
+    "level": "Lvl 123 - 128"
+  },
+  {
+    "id": "1633",
+    "name": "Puddleton the Bare",
+    "family_name": "Puddly",
+    "level": "Lvl 123 - 128"
+  },
+  {
+    "id": "2983",
+    "name": "Ancestral Spirit",
+    "family_name": "Ohwymi",
+    "level": "Lvl 123 - 128"
+  },
+  {
+    "id": "4392",
+    "name": "Victim the Whacky",
+    "family_name": "Shushus",
+    "level": "Lvl 123 - 128"
+  },
+  {
+    "id": "2114",
+    "name": "Dominant Snapper",
+    "family_name": "Snappers",
+    "level": "Lvl 123 - 128"
+  },
+  {
+    "id": "2971",
+    "name": "Saguaro",
+    "family_name": "Ohwymi",
+    "level": "Lvl 123"
+  },
+  {
+    "id": "4236",
+    "name": "Whirlcoal",
+    "family_name": "Mount Zinit",
+    "level": "Lvl 123 - 128"
+  },
+  {
+    "id": "4382",
+    "name": "Frozenuts",
+    "family_name": "Polar Cracklers",
+    "level": "Lvl 123 - 128"
+  },
+  {
+    "id": "2347",
+    "name": "Northern Tracker",
+    "family_name": "Northern Chafers",
+    "level": "Lvl 125 - 129"
+  },
+  {
+    "id": "3051",
+    "name": "Tsubo",
+    "family_name": "Shushus",
+    "level": "Lvl 125"
+  },
+  {
+    "id": "4889",
+    "name": "Leviatun",
+    "family_name": "Snappers",
+    "level": "Lvl 125"
+  },
+  {
+    "id": "2975",
+    "name": "Leaping Coprinus",
+    "family_name": "Ohwymi",
+    "level": "Lvl 125"
+  },
+  {
+    "id": "3050",
+    "name": "Hexaku",
+    "family_name": "Shushus",
+    "level": "Lvl 125"
+  },
+  {
+    "id": "2562",
+    "name": "Black Gwandpa Wabbit",
+    "family_name": "Wabbit Island",
+    "level": "Lvl 125"
+  },
+  {
+    "id": "3048",
+    "name": "Flaxhid the Impaler",
+    "family_name": "Shushus",
+    "level": "Lvl 125 - 170"
+  },
+  {
+    "id": "2550",
+    "name": "Mini-Lenald",
+    "family_name": "Wabbit Island",
+    "level": "Lvl 125"
+  },
+  {
+    "id": "3043",
+    "name": "Victus",
+    "family_name": "Shushus",
+    "level": "Lvl 125"
+  },
+  {
+    "id": "2737",
+    "name": "Novice Wabbit Cavalier",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 127 - 138"
+  },
+  {
+    "id": "2738",
+    "name": "Novice Wabbit Guawd",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 127 - 138"
+  },
+  {
+    "id": "4438",
+    "name": "Mutant Albinarachnee",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 127 - 138"
+  },
+  {
+    "id": "4440",
+    "name": "Mutant Arachnoplasm",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 127 - 138"
+  },
+  {
+    "id": "2739",
+    "name": "Novice Wabbit Shawpshootew",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 127 - 138"
+  },
+  {
+    "id": "4439",
+    "name": "Mutant Spectral Arachnee",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 127 - 138"
+  },
+  {
+    "id": "2551",
+    "name": "Lenald",
+    "family_name": "Wabbit Island",
+    "level": "Lvl 127"
+  },
+  {
+    "id": "4473",
+    "name": "Lenald on a Mission",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 127 - 138"
+  },
+  {
+    "id": "4474",
+    "name": "Fatt Lenald on a Mission",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 127 - 138"
+  },
+  {
+    "id": "4475",
+    "name": "Mini-Lenald on a Mission",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 127 - 138"
+  },
+  {
+    "id": "2974",
+    "name": "Bicephalous Amionite",
+    "family_name": "Ohwymi",
+    "level": "Lvl 128"
+  },
+  {
+    "id": "4223",
+    "name": "Young Drheller",
+    "family_name": "Mount Zinit",
+    "level": "Lvl 128 - 132"
+  },
+  {
+    "id": "4235",
+    "name": "Whirlaugh",
+    "family_name": "Mount Zinit",
+    "level": "Lvl 128 - 133"
+  },
+  {
+    "id": "4727",
+    "name": "Black Zordfish",
+    "family_name": "Snappers",
+    "level": "Lvl 128 - 133"
+  },
+  {
+    "id": "4480",
+    "name": "Count Harebourg's Image",
+    "family_name": "Mechas",
+    "level": "Lvl 128 - 133"
+  },
+  {
+    "id": "4999",
+    "name": "Arachnee",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 128 - 134"
+  },
+  {
+    "id": "5001",
+    "name": "Major Arachnee",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 128 - 134"
+  },
+  {
+    "id": "2343",
+    "name": "Hagen Daz",
+    "family_name": "Polar Cracklers",
+    "level": "Lvl 128 - 133"
+  },
+  {
+    "id": "2348",
+    "name": "Kya, Missiz Freezz",
+    "family_name": "Northern Chafers",
+    "level": "Lvl 128 - 133"
+  },
+  {
+    "id": "1638",
+    "name": "Snappy the Fishfrier",
+    "family_name": "Snappers",
+    "level": "Lvl 128 - 133"
+  },
+  {
+    "id": "2992",
+    "name": "Troolgodyte",
+    "family_name": "Ohwymi",
+    "level": "Lvl 128 - 133"
+  },
+  {
+    "id": "4391",
+    "name": "Mihmosa the Flowery",
+    "family_name": "Shushus",
+    "level": "Lvl 128 - 133"
+  },
+  {
+    "id": "4720",
+    "name": "Royal Puddly",
+    "family_name": "Puddly",
+    "level": "Lvl 128 - 133"
+  },
+  {
+    "id": "5000",
+    "name": "Arachnee Embroiderer",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 128 - 134"
+  },
+  {
+    "id": "2561",
+    "name": "Black Wo Wabbit",
+    "family_name": "Wabbit Island",
+    "level": "Lvl 128"
+  },
+  {
+    "id": "4231",
+    "name": "Silmawhirly",
+    "family_name": "Mount Zinit",
+    "level": "Lvl 128 - 133"
+  },
+  {
+    "id": "4888",
+    "name": "Dark Treechnid",
+    "family_name": "Dark Treechnids",
+    "level": "Lvl 128 - 132"
+  },
+  {
+    "id": "2354",
+    "name": "Sylargh",
+    "family_name": "Mechas",
+    "level": "Lvl 130"
+  },
+  {
+    "id": "4221",
+    "name": "Pet Drheller",
+    "family_name": "Mount Zinit",
+    "level": "Lvl 130 - 134"
+  },
+  {
+    "id": "4944",
+    "name": "Wild Drheller",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 130 - 134"
+  },
+  {
+    "id": "2552",
+    "name": "Old Lenald",
+    "family_name": "Wabbit Island",
+    "level": "Lvl 130"
+  },
+  {
+    "id": "2565",
+    "name": "Tiwabbit",
+    "family_name": "Wabbit Island",
+    "level": "Lvl 130"
+  },
+  {
+    "id": "4285",
+    "name": "Scythescraper",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 130"
+  },
+  {
+    "id": "4295",
+    "name": "Whisperkiller",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 130"
+  },
+  {
+    "id": "4887",
+    "name": "Dark Trunknid",
+    "family_name": "Dark Treechnids",
+    "level": "Lvl 130 - 134"
+  },
+  {
+    "id": "2973",
+    "name": "Haploid Sporelator",
+    "family_name": "Ohwymi",
+    "level": "Lvl 131"
+  },
+  {
+    "id": "4431",
+    "name": "Fungus-Eating Blue Larva",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 132 - 138"
+  },
+  {
+    "id": "4432",
+    "name": "Fungus-Eating Orange Larva",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 132 - 138"
+  },
+  {
+    "id": "4433",
+    "name": "Fungus-Eating Green Larva",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 132 - 138"
+  },
+  {
+    "id": "4471",
+    "name": "Dwhellew Squattew",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 132 - 138"
+  },
+  {
+    "id": "2566",
+    "name": "Wabbits",
+    "family_name": "Wabbit Island",
+    "level": "Lvl 132"
+  },
+  {
+    "id": "2636",
+    "name": "Decawwoting Crobak",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 132 - 138"
+  },
+  {
+    "id": "4890",
+    "name": "Evil Polter",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 132 - 138"
+  },
+  {
+    "id": "4891",
+    "name": "Pernicious Polter",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 132 - 138"
+  },
+  {
+    "id": "2553",
+    "name": "Fatt Lenald",
+    "family_name": "Wabbit Island",
+    "level": "Lvl 133"
+  },
+  {
+    "id": "4998",
+    "name": "Caustic Abrasive",
+    "family_name": "Dark Treechnids",
+    "level": "Lvl 134 - 138"
+  },
+  {
+    "id": "4886",
+    "name": "Ancestral Treechnid",
+    "family_name": "Dark Treechnids",
+    "level": "Lvl 134 - 138"
+  },
+  {
+    "id": "4064",
+    "name": "Serprieuse",
+    "family_name": "Viticultists",
+    "level": "Lvl 134"
+  },
+  {
+    "id": "2988",
+    "name": "Crushing Hyphalump",
+    "family_name": "Ohwymi",
+    "level": "Lvl 134"
+  },
+  {
+    "id": "4222",
+    "name": "Trained Drheller",
+    "family_name": "Mount Zinit",
+    "level": "Lvl 134 - 138"
+  },
+  {
+    "id": "2567",
+    "name": "Wo Wabbit",
+    "family_name": "Wabbit Island",
+    "level": "Lvl 135"
+  },
+  {
+    "id": "2972",
+    "name": "Ponktius",
+    "family_name": "Ohwymi",
+    "level": "Lvl 135"
+  },
+  {
+    "id": "4297",
+    "name": "Big Whisperkilled Crackler",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 135"
+  },
+  {
+    "id": "2606",
+    "name": "Boney Tiwabbit",
+    "family_name": "Wabbit Island",
+    "level": "Lvl 135"
+  },
+  {
+    "id": "4296",
+    "name": "Whisperkilled Crackler",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 135"
+  },
+  {
+    "id": "4063",
+    "name": "Grampycrat",
+    "family_name": "Viticultists",
+    "level": "Lvl 136"
+  },
+  {
+    "id": "2121",
+    "name": "Dominant Treechnid",
+    "family_name": "Dark Treechnids",
+    "level": "Lvl 137 - 142"
+  },
+  {
+    "id": "2604",
+    "name": "Boney Wabbit",
+    "family_name": "Wabbit Island",
+    "level": "Lvl 138"
+  },
+  {
+    "id": "4270",
+    "name": "Firedrhell the Untimely",
+    "family_name": "Mount Zinit",
+    "level": "Lvl 138 - 143"
+  },
+  {
+    "id": "4373",
+    "name": "Hoppipop the Radiant",
+    "family_name": "Ohwymi",
+    "level": "Lvl 138 - 143"
+  },
+  {
+    "id": "4385",
+    "name": "The Glay Lenald",
+    "family_name": "Wabbit Island",
+    "level": "Lvl 138 - 143"
+  },
+  {
+    "id": "4541",
+    "name": "Wambo",
+    "family_name": "Wabbit Island",
+    "level": "Lvl 138 - 143"
+  },
+  {
+    "id": "2563",
+    "name": "Black Wabbit Emiw",
+    "family_name": "Wabbit Island",
+    "level": "Lvl 138"
+  },
+  {
+    "id": "4062",
+    "name": "Mama Lenyal",
+    "family_name": "Viticultists",
+    "level": "Lvl 138"
+  },
+  {
+    "id": "2568",
+    "name": "Gwandpa Wabbit",
+    "family_name": "Wabbit Island",
+    "level": "Lvl 138"
+  },
+  {
+    "id": "3558",
+    "name": "Sram's Henchman",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 140"
+  },
+  {
+    "id": "3926",
+    "name": "Vilenya",
+    "family_name": "Huppermage School",
+    "level": "Lvl 140"
+  },
+  {
+    "id": "2577",
+    "name": "Wabbit Shawpshootew",
+    "family_name": "Wabbit Island",
+    "level": "Lvl 140"
+  },
+  {
+    "id": "2607",
+    "name": "Bandaged Gwandpa Zwombbit",
+    "family_name": "Wabbit Island",
+    "level": "Lvl 141"
+  },
+  {
+    "id": "4060",
+    "name": "High Priestess Sydonia",
+    "family_name": "Viticultists",
+    "level": "Lvl 141"
+  },
+  {
+    "id": "3076",
+    "name": "Dwarf Bulldagger",
+    "family_name": "Srambadians",
+    "level": "Lvl 141"
+  },
+  {
+    "id": "3097",
+    "name": "Dark Heater",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 142 - 153"
+  },
+  {
+    "id": "2578",
+    "name": "Wabbit Cavaliew",
+    "family_name": "Wabbit Island",
+    "level": "Lvl 142"
+  },
+  {
+    "id": "3102",
+    "name": "Rebellious Drheller",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 142 - 153"
+  },
+  {
+    "id": "4061",
+    "name": "Drainacask",
+    "family_name": "Viticultists",
+    "level": "Lvl 142"
+  },
+  {
+    "id": "4387",
+    "name": "The Dawk Knight",
+    "family_name": "Wabbit Island",
+    "level": "Lvl 142"
+  },
+  {
+    "id": "4478",
+    "name": "Webellious Black Wo Wabbit",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 142 - 153"
+  },
+  {
+    "id": "4436",
+    "name": "Invasive Victus",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 142 - 153"
+  },
+  {
+    "id": "4437",
+    "name": "Ocushu",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 142 - 153"
+  },
+  {
+    "id": "4476",
+    "name": "Webellious Black Tiwabbit",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 142 - 153"
+  },
+  {
+    "id": "4477",
+    "name": "Webellious Black Wabbit",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 142 - 153"
+  },
+  {
+    "id": "2556",
+    "name": "Lenald Empelol",
+    "family_name": "Wabbit Island",
+    "level": "Lvl 143"
+  },
+  {
+    "id": "4269",
+    "name": "Gray XIII",
+    "family_name": "Mount Zinit",
+    "level": "Lvl 143 - 148"
+  },
+  {
+    "id": "4874",
+    "name": "Soft Oak",
+    "family_name": "Dark Treechnids",
+    "level": "Lvl 143 - 148"
+  },
+  {
+    "id": "2608",
+    "name": "Wo Zwombbit",
+    "family_name": "Wabbit Island",
+    "level": "Lvl 143"
+  },
+  {
+    "id": "4254",
+    "name": "Rascal",
+    "family_name": "Mount Zinit",
+    "level": "Lvl 143 - 148"
+  },
+  {
+    "id": "4372",
+    "name": "Issnotmee the Innocent",
+    "family_name": "Ohwymi",
+    "level": "Lvl 143 - 148"
+  },
+  {
+    "id": "5036",
+    "name": "Bulbush",
+    "family_name": "Pandalucia",
+    "level": "Lvl 143 - 147"
+  },
+  {
+    "id": "2743",
+    "name": "The Zombowabbit",
+    "family_name": "Wabbit Island",
+    "level": "Lvl 143 - 148"
+  },
+  {
+    "id": "4777",
+    "name": "Trumpet-Playing Blop",
+    "family_name": "Musical Blops",
+    "level": "Lvl 143 - 147"
+  },
+  {
+    "id": "4962",
+    "name": "Bellaphone",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 143 - 149"
+  },
+  {
+    "id": "2630",
+    "name": "Lenaldix",
+    "family_name": "Wabbit Island",
+    "level": "Lvl 143 - 148"
+  },
+  {
+    "id": "3077",
+    "name": "Longblade Trainer",
+    "family_name": "Srambadians",
+    "level": "Lvl 144"
+  },
+  {
+    "id": "2579",
+    "name": "Wabbit Guawd",
+    "family_name": "Wabbit Island",
+    "level": "Lvl 144"
+  },
+  {
+    "id": "2977",
+    "name": "Sugnuf of Gillamush",
+    "family_name": "Ohwymi",
+    "level": "Lvl 145"
+  },
+  {
+    "id": "5035",
+    "name": "Bulbiflor",
+    "family_name": "Pandalucia",
+    "level": "Lvl 145 - 149"
+  },
+  {
+    "id": "2580",
+    "name": "Wobot",
+    "family_name": "Wabbit Island",
+    "level": "Lvl 145"
+  },
+  {
+    "id": "4367",
+    "name": "Scythescraper",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 145"
+  },
+  {
+    "id": "4778",
+    "name": "Blop Dylan",
+    "family_name": "Musical Blops",
+    "level": "Lvl 145 - 149"
+  },
+  {
+    "id": "3090",
+    "name": "Badosaurus",
+    "family_name": "Enutreasures",
+    "level": "Lvl 146"
+  },
+  {
+    "id": "3141",
+    "name": "Badomain",
+    "family_name": "Enutreasures",
+    "level": "Lvl 146"
+  },
+  {
+    "id": "2957",
+    "name": "Siege Mechabra",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 147 - 153"
+  },
+  {
+    "id": "2958",
+    "name": "Siege Mechanistro",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 147 - 153"
+  },
+  {
+    "id": "3078",
+    "name": "Cadaverous Apothecary",
+    "family_name": "Srambadians",
+    "level": "Lvl 147"
+  },
+  {
+    "id": "4951",
+    "name": "Buzzed Mama Lenyal",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 147 - 153"
+  },
+  {
+    "id": "4952",
+    "name": "Buzzed Grampycrat",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 147 - 153"
+  },
+  {
+    "id": "2960",
+    "name": "Siege Mechazerker",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 147 - 153"
+  },
+  {
+    "id": "2959",
+    "name": "Siege Mechrobak",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 147 - 153"
+  },
+  {
+    "id": "2570",
+    "name": "Gwand Viziew Wabbit",
+    "family_name": "Wabbit Island",
+    "level": "Lvl 148"
+  },
+  {
+    "id": "5037",
+    "name": "Bulbamboo",
+    "family_name": "Pandalucia",
+    "level": "Lvl 149 - 153"
+  },
+  {
+    "id": "3180",
+    "name": "Stalliance of Troa",
+    "family_name": "Enutreasures",
+    "level": "Lvl 149"
+  },
+  {
+    "id": "3091",
+    "name": "Stalliance",
+    "family_name": "Enutreasures",
+    "level": "Lvl 149"
+  },
+  {
+    "id": "4779",
+    "name": "Drumble Blop",
+    "family_name": "Musical Blops",
+    "level": "Lvl 149 - 153"
+  },
+  {
+    "id": "3517",
+    "name": "Security Krosmoglob",
+    "family_name": "Hulors",
+    "level": "Lvl 150"
+  },
+  {
+    "id": "3530",
+    "name": "His Eminence's Henchman",
+    "family_name": "Xelots",
+    "level": "Lvl 150"
+  },
+  {
+    "id": "4347",
+    "name": "Greedodrip",
+    "family_name": "Mount Zinit",
+    "level": "Lvl 150"
+  },
+  {
+    "id": "3519",
+    "name": "Mega-Krosmo",
+    "family_name": "Hulors",
+    "level": "Lvl 150"
+  },
+  {
+    "id": "4346",
+    "name": "Greedodude",
+    "family_name": "Mount Zinit",
+    "level": "Lvl 150"
+  },
+  {
+    "id": "4348",
+    "name": "Greedoblimp",
+    "family_name": "Mount Zinit",
+    "level": "Lvl 150"
+  },
+  {
+    "id": "4349",
+    "name": "Eliotrope Guardian",
+    "family_name": "Mount Zinit",
+    "level": "Lvl 150"
+  },
+  {
+    "id": "2581",
+    "name": "Wobot in Chief",
+    "family_name": "Wabbit Island",
+    "level": "Lvl 150"
+  },
+  {
+    "id": "3515",
+    "name": "Unsynchronised Krosmogolem",
+    "family_name": "Hulors",
+    "level": "Lvl 150"
+  },
+  {
+    "id": "3516",
+    "name": "Security Krosmoglob",
+    "family_name": "Hulors",
+    "level": "Lvl 150"
+  },
+  {
+    "id": "3079",
+    "name": "Sramva",
+    "family_name": "Srambadians",
+    "level": "Lvl 150"
+  },
+  {
+    "id": "3514",
+    "name": "Unsynchronised Krosmoglob",
+    "family_name": "Hulors",
+    "level": "Lvl 150"
+  },
+  {
+    "id": "3531",
+    "name": "His Eminence's Henchman",
+    "family_name": "Xelots",
+    "level": "Lvl 150"
+  },
+  {
+    "id": "4345",
+    "name": "Greedoball",
+    "family_name": "Mount Zinit",
+    "level": "Lvl 150"
+  },
+  {
+    "id": "3508",
+    "name": "His Eminence's Scout",
+    "family_name": "",
+    "level": "Lvl 150"
+  },
+  {
+    "id": "3518",
+    "name": "Security Krosmogolem",
+    "family_name": "Hulors",
+    "level": "Lvl 150"
+  },
+  {
+    "id": "4781",
+    "name": "Dominant Blop",
+    "family_name": "Musical Blops",
+    "level": "Lvl 152 - 157"
+  },
+  {
+    "id": "3092",
+    "name": "Enucoffer Safe",
+    "family_name": "Enutreasures",
+    "level": "Lvl 152"
+  },
+  {
+    "id": "3179",
+    "name": "Enutrojan",
+    "family_name": "Enutreasures",
+    "level": "Lvl 152"
+  },
+  {
+    "id": "4375",
+    "name": "Komrad the Sharer",
+    "family_name": "Enutreasures",
+    "level": "Lvl 153 - 158"
+  },
+  {
+    "id": "2605",
+    "name": "Gweat GM Wabbit",
+    "family_name": "Wabbit Island",
+    "level": "Lvl 153"
+  },
+  {
+    "id": "4374",
+    "name": "Sweepney the Chim",
+    "family_name": "Srambadians",
+    "level": "Lvl 153 - 158"
+  },
+  {
+    "id": "5038",
+    "name": "Dominant Plantala",
+    "family_name": "Pandalucia",
+    "level": "Lvl 153 - 158"
+  },
+  {
+    "id": "4386",
+    "name": "Igow the Whipping Boy",
+    "family_name": "Wabbit Island",
+    "level": "Lvl 153 - 158"
+  },
+  {
+    "id": "2582",
+    "name": "Wa Wabbit",
+    "family_name": "Wabbit Island",
+    "level": "Lvl 155"
+  },
+  {
+    "id": "3093",
+    "name": "Kamarachnid",
+    "family_name": "Enutreasures",
+    "level": "Lvl 155"
+  },
+  {
+    "id": "3178",
+    "name": "Kamarammasing",
+    "family_name": "Enutreasures",
+    "level": "Lvl 155"
+  },
+  {
+    "id": "4536",
+    "name": "Elite Standard",
+    "family_name": "Riktus",
+    "level": "Lvl 157 - 165"
+  },
+  {
+    "id": "4537",
+    "name": "Magility",
+    "family_name": "Riktus",
+    "level": "Lvl 157 - 165"
+  },
+  {
+    "id": "4768",
+    "name": "Hoodlum Mage",
+    "family_name": "Hoodlums",
+    "level": "Lvl 157 - 165"
+  },
+  {
+    "id": "4767",
+    "name": "Hoodlum Assassin",
+    "family_name": "Hoodlums",
+    "level": "Lvl 157 - 165"
+  },
+  {
+    "id": "4534",
+    "name": "Elite Shooter",
+    "family_name": "Riktus",
+    "level": "Lvl 157 - 165"
+  },
+  {
+    "id": "4535",
+    "name": "Elite Sword",
+    "family_name": "Riktus",
+    "level": "Lvl 157 - 165"
+  },
+  {
+    "id": "4769",
+    "name": "Hoodlum Protector",
+    "family_name": "Hoodlums",
+    "level": "Lvl 157 - 165"
+  },
+  {
+    "id": "5011",
+    "name": "Dominant Elite Riktus",
+    "family_name": "Riktus",
+    "level": "Lvl 157 - 165"
+  },
+  {
+    "id": "2583",
+    "name": "Wipley the Suwvivow",
+    "family_name": "Wabbit Island",
+    "level": "Lvl 158 - 163"
+  },
+  {
+    "id": "4266",
+    "name": "Magmatic Crackrock",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 158 - 168"
+  },
+  {
+    "id": "4780",
+    "name": "Blopgang Amadeus Blopzart",
+    "family_name": "Musical Blops",
+    "level": "Lvl 158 - 163"
+  },
+  {
+    "id": "4965",
+    "name": "Stasified Crackler",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 158 - 164"
+  },
+  {
+    "id": "4967",
+    "name": "Alpha Castupod",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 158 - 164"
+  },
+  {
+    "id": "2015",
+    "name": "Rogue Rob Ludgeon",
+    "family_name": "Rogues",
+    "level": "Lvl 158 - 162"
+  },
+  {
+    "id": "4359",
+    "name": "Pandora Dimensional Double",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 158 - 162"
+  },
+  {
+    "id": "4360",
+    "name": "Chad Dimensional Double",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 158 - 162"
+  },
+  {
+    "id": "4782",
+    "name": "Blopal the Resplendent",
+    "family_name": "Musical Blops",
+    "level": "Lvl 158 - 163"
+  },
+  {
+    "id": "4968",
+    "name": "Alpha Moloch",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 158 - 164"
+  },
+  {
+    "id": "3175",
+    "name": "Sir Urh the Recluse",
+    "family_name": "Enutreasures",
+    "level": "Lvl 158 - 163"
+  },
+  {
+    "id": "4920",
+    "name": "Stalagnome",
+    "family_name": "Stalagmotes",
+    "level": "Lvl 158 - 162"
+  },
+  {
+    "id": "4966",
+    "name": "Alpha Schanker",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 158 - 164"
+  },
+  {
+    "id": "5040",
+    "name": "Bulbrute",
+    "family_name": "Pandalucia",
+    "level": "Lvl 158 - 163"
+  },
+  {
+    "id": "3395",
+    "name": "Orda Gova",
+    "family_name": "Xelots",
+    "level": "Lvl 158 - 162"
+  },
+  {
+    "id": "3098",
+    "name": "Raval Disciple",
+    "family_name": "Srambadians",
+    "level": "Lvl 158 - 163"
+  },
+  {
+    "id": "3392",
+    "name": "Poz",
+    "family_name": "Hulors",
+    "level": "Lvl 158 - 162"
+  },
+  {
+    "id": "5039",
+    "name": "Saurbabul the Strange",
+    "family_name": "Pandalucia",
+    "level": "Lvl 158 - 163"
+  },
+  {
+    "id": "4215",
+    "name": "Tankheart",
+    "family_name": "Mount Zinit",
+    "level": "Lvl 160 - 166"
+  },
+  {
+    "id": "2013",
+    "name": "Rouge Rogue",
+    "family_name": "Rogues",
+    "level": "Lvl 160 - 162"
+  },
+  {
+    "id": "3080",
+    "name": "Solkrupt the Shadow-Eater",
+    "family_name": "Srambadians",
+    "level": "Lvl 160"
+  },
+  {
+    "id": "4216",
+    "name": "Hemogluru",
+    "family_name": "Mount Zinit",
+    "level": "Lvl 160 - 166"
+  },
+  {
+    "id": "4921",
+    "name": "Stalagawk",
+    "family_name": "Stalagmotes",
+    "level": "Lvl 160 - 164"
+  },
+  {
+    "id": "3393",
+    "name": "Cullers of the Wind",
+    "family_name": "Hulors",
+    "level": "Lvl 160 - 164"
+  },
+  {
+    "id": "3397",
+    "name": "Crolk",
+    "family_name": "Xelots",
+    "level": "Lvl 160 - 164"
+  },
+  {
+    "id": "4214",
+    "name": "Sistzerker",
+    "family_name": "Mount Zinit",
+    "level": "Lvl 160 - 166"
+  },
+  {
+    "id": "4264",
+    "name": "Scythescraper",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 160"
+  },
+  {
+    "id": "4933",
+    "name": "Undercover Elite Sword",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 162 - 168"
+  },
+  {
+    "id": "4942",
+    "name": "Poisonous Coprinus",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 162 - 168"
+  },
+  {
+    "id": "4265",
+    "name": "Destructive Tamer",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 162 - 168"
+  },
+  {
+    "id": "4934",
+    "name": "Undercover Rogue",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 162 - 168"
+  },
+  {
+    "id": "4943",
+    "name": "Young Wild Drheller",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 162 - 168"
+  },
+  {
+    "id": "4941",
+    "name": "Poisonous Hyphalump",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 162 - 168"
+  },
+  {
+    "id": "3394",
+    "name": "Syclick",
+    "family_name": "Hulors",
+    "level": "Lvl 164 - 168"
+  },
+  {
+    "id": "2014",
+    "name": "Rogue Rtist",
+    "family_name": "Rogues",
+    "level": "Lvl 164 - 168"
+  },
+  {
+    "id": "3396",
+    "name": "Lapse",
+    "family_name": "Xelots",
+    "level": "Lvl 164 - 168"
+  },
+  {
+    "id": "4922",
+    "name": "Stalaguar",
+    "family_name": "Stalagmotes",
+    "level": "Lvl 164 - 168"
+  },
+  {
+    "id": "3523",
+    "name": "Bellalice",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 165"
+  },
+  {
+    "id": "3094",
+    "name": "Cledus 'Onist the Key-Keeper",
+    "family_name": "Enutreasures",
+    "level": "Lvl 165"
+  },
+  {
+    "id": "4344",
+    "name": "Wounded Badgeroxxor",
+    "family_name": "Mount Zinit",
+    "level": "Lvl 165"
+  },
+  {
+    "id": "2127",
+    "name": "Dominant Stalagmote",
+    "family_name": "Stalagmotes",
+    "level": "Lvl 168 - 173"
+  },
+  {
+    "id": "4356",
+    "name": "Saunic the Supersonic",
+    "family_name": "Hulors",
+    "level": "Lvl 168 - 173"
+  },
+  {
+    "id": "5018",
+    "name": "Dominant Rogue",
+    "family_name": "Rogues",
+    "level": "Lvl 168 - 173"
+  },
+  {
+    "id": "5016",
+    "name": "Dominant Hoodlum",
+    "family_name": "Hoodlums",
+    "level": "Lvl 168 - 173"
+  },
+  {
+    "id": "4355",
+    "name": "Lavoose the Chronologically Triggered",
+    "family_name": "Xelots",
+    "level": "Lvl 168 - 173"
+  },
+  {
+    "id": "3398",
+    "name": "Vertox the Timeless",
+    "family_name": "Xelots",
+    "level": "Lvl 173 - 178"
+  },
+  {
+    "id": "3399",
+    "name": "Robowl the Outcast",
+    "family_name": "Hulors",
+    "level": "Lvl 173 - 178"
+  },
+  {
+    "id": "4304",
+    "name": "Sister Solder the Melted",
+    "family_name": "Mount Zinit",
+    "level": "Lvl 173 - 178"
+  },
+  {
+    "id": "5015",
+    "name": "Energizing Cappuccino",
+    "family_name": "Hoodlums",
+    "level": "Lvl 173 - 178"
+  },
+  {
+    "id": "5128",
+    "name": "Baby Gerbean",
+    "family_name": "Sadida Kingdom",
+    "level": "Lvl 173 - 177"
+  },
+  {
+    "id": "2018",
+    "name": "Remington Smisse",
+    "family_name": "Rogues",
+    "level": "Lvl 173 - 178"
+  },
+  {
+    "id": "3857",
+    "name": "Voodoo Kanniball",
+    "family_name": "Moon Island",
+    "level": "Lvl 173 - 177"
+  },
+  {
+    "id": "3862",
+    "name": "Dionatrap",
+    "family_name": "Moon Island",
+    "level": "Lvl 173 - 177"
+  },
+  {
+    "id": "4357",
+    "name": "Roonaldo the Returner",
+    "family_name": "Xelots",
+    "level": "Lvl 173 - 178"
+  },
+  {
+    "id": "4923",
+    "name": "Mamagmote",
+    "family_name": "Stalagmotes",
+    "level": "Lvl 173 - 178"
+  },
+  {
+    "id": "2016",
+    "name": "Tibia-Thrasher",
+    "family_name": "Rogues",
+    "level": "Lvl 173 - 178"
+  },
+  {
+    "id": "3858",
+    "name": "Psykoko",
+    "family_name": "Moon Island",
+    "level": "Lvl 173 - 177"
+  },
+  {
+    "id": "4232",
+    "name": "Bully the Racketeer",
+    "family_name": "Mount Zinit",
+    "level": "Lvl 173 - 178"
+  },
+  {
+    "id": "4358",
+    "name": "The Time-Bird",
+    "family_name": "Hulors",
+    "level": "Lvl 173 - 178"
+  },
+  {
+    "id": "5012",
+    "name": "Rictus the Expressive",
+    "family_name": "Riktus",
+    "level": "Lvl 173 - 178"
+  },
+  {
+    "id": "5017",
+    "name": "Rouflacket the Gentleman",
+    "family_name": "Rogues",
+    "level": "Lvl 173 - 178"
+  },
+  {
+    "id": "3968",
+    "name": "Nyl Hunter",
+    "family_name": "Moon Island",
+    "level": "Lvl 173 - 177"
+  },
+  {
+    "id": "4217",
+    "name": "Kali",
+    "family_name": "Mount Zinit",
+    "level": "Lvl 173 - 178"
+  },
+  {
+    "id": "4538",
+    "name": "The Masked Riktus",
+    "family_name": "Riktus",
+    "level": "Lvl 173 - 178"
+  },
+  {
+    "id": "4853",
+    "name": "Stalagmonarch the Rigid",
+    "family_name": "Stalagmotes",
+    "level": "Lvl 173 - 178"
+  },
+  {
+    "id": "4924",
+    "name": "Hoodfella",
+    "family_name": "Hoodlums",
+    "level": "Lvl 173 - 178"
+  },
+  {
+    "id": "5043",
+    "name": "Pandoo",
+    "family_name": "Pandalucia",
+    "level": "Lvl 173 - 177"
+  },
+  {
+    "id": "3863",
+    "name": "Tropilian",
+    "family_name": "Moon Island",
+    "level": "Lvl 175 - 179"
+  },
+  {
+    "id": "3860",
+    "name": "Kokoloss",
+    "family_name": "Moon Island",
+    "level": "Lvl 175 - 179"
+  },
+  {
+    "id": "3856",
+    "name": "Kanniball Et",
+    "family_name": "Moon Island",
+    "level": "Lvl 175 - 179"
+  },
+  {
+    "id": "3970",
+    "name": "Nyl Shaman",
+    "family_name": "Moon Island",
+    "level": "Lvl 175 - 179"
+  },
+  {
+    "id": "4350",
+    "name": "Scythescraper",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 175"
+  },
+  {
+    "id": "5041",
+    "name": "Pandikaze",
+    "family_name": "Pandalucia",
+    "level": "Lvl 175 - 179"
+  },
+  {
+    "id": "5129",
+    "name": "Gerbean",
+    "family_name": "Sadida Kingdom",
+    "level": "Lvl 175 - 179"
+  },
+  {
+    "id": "3861",
+    "name": "Pheromaniac",
+    "family_name": "Moon Island",
+    "level": "Lvl 179 - 183"
+  },
+  {
+    "id": "5130",
+    "name": "Grandpa Gerbean",
+    "family_name": "Sadida Kingdom",
+    "level": "Lvl 179 - 183"
+  },
+  {
+    "id": "3855",
+    "name": "Kanniball Lymi",
+    "family_name": "Moon Island",
+    "level": "Lvl 179 - 183"
+  },
+  {
+    "id": "5042",
+    "name": "Pandit",
+    "family_name": "Pandalucia",
+    "level": "Lvl 179 - 183"
+  },
+  {
+    "id": "3859",
+    "name": "Kokoleric",
+    "family_name": "Moon Island",
+    "level": "Lvl 179 - 183"
+  },
+  {
+    "id": "3969",
+    "name": "Nyl Ripper",
+    "family_name": "Moon Island",
+    "level": "Lvl 179 - 183"
+  },
+  {
+    "id": "4316",
+    "name": "Hot Rock",
+    "family_name": "Mount Zinit",
+    "level": "Lvl 183 - 188"
+  },
+  {
+    "id": "4317",
+    "name": "Cold Rock",
+    "family_name": "Mount Zinit",
+    "level": "Lvl 183 - 188"
+  },
+  {
+    "id": "4351",
+    "name": "Kanniballshadow",
+    "family_name": "Moon Island",
+    "level": "Lvl 183 - 188"
+  },
+  {
+    "id": "5132",
+    "name": "Dominant Gerbean",
+    "family_name": "Sadida Kingdom",
+    "level": "Lvl 183 - 188"
+  },
+  {
+    "id": "4354",
+    "name": "Ken'Koko",
+    "family_name": "Moon Island",
+    "level": "Lvl 183 - 188"
+  },
+  {
+    "id": "5044",
+    "name": "Dominant Pandissident",
+    "family_name": "Pandalucia",
+    "level": "Lvl 183 - 188"
+  },
+  {
+    "id": "4352",
+    "name": "Rick Croc",
+    "family_name": "Moon Island",
+    "level": "Lvl 183 - 188"
+  },
+  {
+    "id": "4353",
+    "name": "Toxik the Magik Plant",
+    "family_name": "Moon Island",
+    "level": "Lvl 183 - 188"
+  },
+  {
+    "id": "4203",
+    "name": "Badgeroxxor",
+    "family_name": "Mount Zinit",
+    "level": "Lvl 187 - 195"
+  },
+  {
+    "id": "4326",
+    "name": "Magmatic War'Hg",
+    "family_name": "Mount Zinit",
+    "level": "Lvl 187 - 195"
+  },
+  {
+    "id": "4661",
+    "name": "Jadarmed",
+    "family_name": "Mineral Tower",
+    "level": "Lvl 187 - 195"
+  },
+  {
+    "id": "4662",
+    "name": "Emeraldin",
+    "family_name": "Mineral Tower",
+    "level": "Lvl 187 - 195"
+  },
+  {
+    "id": "4324",
+    "name": "Bolrag of Dor'Mor",
+    "family_name": "Mount Zinit",
+    "level": "Lvl 187 - 195"
+  },
+  {
+    "id": "4325",
+    "name": "Gulnaz of Dor'Mor",
+    "family_name": "Mount Zinit",
+    "level": "Lvl 187 - 195"
+  },
+  {
+    "id": "4205",
+    "name": "Beardger",
+    "family_name": "Mount Zinit",
+    "level": "Lvl 187 - 195"
+  },
+  {
+    "id": "4314",
+    "name": "Castuc Hermit",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 187 - 198"
+  },
+  {
+    "id": "4334",
+    "name": "Dor'Mor Flamelet",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 187 - 198"
+  },
+  {
+    "id": "5226",
+    "name": "Jadarmed",
+    "family_name": "Mineral Tower",
+    "level": "Lvl 187 - 195"
+  },
+  {
+    "id": "4337",
+    "name": "Were-Drheller",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 187 - 198"
+  },
+  {
+    "id": "5228",
+    "name": "Agatank",
+    "family_name": "Mineral Tower",
+    "level": "Lvl 187 - 195"
+  },
+  {
+    "id": "4204",
+    "name": "Badgerage",
+    "family_name": "Mount Zinit",
+    "level": "Lvl 187 - 195"
+  },
+  {
+    "id": "4446",
+    "name": "Zinit Stalaguar",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 187 - 198"
+  },
+  {
+    "id": "4447",
+    "name": "Zinit Stalagawk",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 187 - 198"
+  },
+  {
+    "id": "4663",
+    "name": "Agatank",
+    "family_name": "Mineral Tower",
+    "level": "Lvl 187 - 195"
+  },
+  {
+    "id": "5227",
+    "name": "Emeraldin",
+    "family_name": "Mineral Tower",
+    "level": "Lvl 187 - 195"
+  },
+  {
+    "id": "3865",
+    "name": "Koko the Nutt",
+    "family_name": "Moon Island",
+    "level": "Lvl 188 - 193"
+  },
+  {
+    "id": "3867",
+    "name": "Koko Riko",
+    "family_name": "Moon Island",
+    "level": "Lvl 188 - 193"
+  },
+  {
+    "id": "3971",
+    "name": "Nyl King",
+    "family_name": "Moon Island",
+    "level": "Lvl 188 - 193"
+  },
+  {
+    "id": "5055",
+    "name": "Tanuki-Chan Ghost",
+    "family_name": "Pandalucia",
+    "level": "Lvl 188 - 192"
+  },
+  {
+    "id": "5056",
+    "name": "Yokai Ghost",
+    "family_name": "Pandalucia",
+    "level": "Lvl 188 - 192"
+  },
+  {
+    "id": "5131",
+    "name": "Mama Gerbean",
+    "family_name": "Sadida Kingdom",
+    "level": "Lvl 188 - 193"
+  },
+  {
+    "id": "3866",
+    "name": "Grozepin",
+    "family_name": "Moon Island",
+    "level": "Lvl 188 - 193"
+  },
+  {
+    "id": "3879",
+    "name": "Darkli Moon",
+    "family_name": "Moon Island",
+    "level": "Lvl 188 - 193"
+  },
+  {
+    "id": "5049",
+    "name": "Blightoxious",
+    "family_name": "Pandalucia",
+    "level": "Lvl 188 - 192"
+  },
+  {
+    "id": "3972",
+    "name": "Dandy Mos Croc",
+    "family_name": "Moon Island",
+    "level": "Lvl 188 - 193"
+  },
+  {
+    "id": "4208",
+    "name": "Dregger",
+    "family_name": "Mount Zinit",
+    "level": "Lvl 188 - 192"
+  },
+  {
+    "id": "5046",
+    "name": "Pandora",
+    "family_name": "Pandalucia",
+    "level": "Lvl 188 - 193"
+  },
+  {
+    "id": "5133",
+    "name": "Electric Pick-and-Chew",
+    "family_name": "Sadida Kingdom",
+    "level": "Lvl 188 - 193"
+  },
+  {
+    "id": "3864",
+    "name": "Kannilooni",
+    "family_name": "Moon Island",
+    "level": "Lvl 188 - 193"
+  },
+  {
+    "id": "3868",
+    "name": "Gengas Kin",
+    "family_name": "Moon Island",
+    "level": "Lvl 188 - 193"
+  },
+  {
+    "id": "4258",
+    "name": "Ammaniac",
+    "family_name": "Mount Zinit",
+    "level": "Lvl 188 - 192"
+  },
+  {
+    "id": "5045",
+    "name": "Pandamik the Ill",
+    "family_name": "Pandalucia",
+    "level": "Lvl 188 - 193"
+  },
+  {
+    "id": "4310",
+    "name": "Scythescraper",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 190"
+  },
+  {
+    "id": "4168",
+    "name": "Hardy Wyrmling",
+    "family_name": "Ultimate Bosses",
+    "level": "Lvl 190"
+  },
+  {
+    "id": "4259",
+    "name": "Sulfury",
+    "family_name": "Mount Zinit",
+    "level": "Lvl 190 - 194"
+  },
+  {
+    "id": "5054",
+    "name": "Pandulum Ghost",
+    "family_name": "Pandalucia",
+    "level": "Lvl 190 - 194"
+  },
+  {
+    "id": "5048",
+    "name": "Blightobum",
+    "family_name": "Pandalucia",
+    "level": "Lvl 190 - 194"
+  },
+  {
+    "id": "5136",
+    "name": "Noicebubourg",
+    "family_name": "Sadida Kingdom",
+    "level": "Lvl 190 - 194"
+  },
+  {
+    "id": "4167",
+    "name": "Ferocious Wyrmling",
+    "family_name": "Ultimate Bosses",
+    "level": "Lvl 190"
+  },
+  {
+    "id": "4394",
+    "name": "Noxine",
+    "family_name": "Mount Zinit",
+    "level": "Lvl 190"
+  },
+  {
+    "id": "5134",
+    "name": "Minibubourg",
+    "family_name": "Sadida Kingdom",
+    "level": "Lvl 190 - 194"
+  },
+  {
+    "id": "4210",
+    "name": "Dreggon Warrior",
+    "family_name": "Mount Zinit",
+    "level": "Lvl 190 - 194"
+  },
+  {
+    "id": "4449",
+    "name": "Summit Polter",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 192 - 198"
+  },
+  {
+    "id": "4313",
+    "name": "Conqueror Krocky",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 192 - 198"
+  },
+  {
+    "id": "4336",
+    "name": "Rocky",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 192 - 198"
+  },
+  {
+    "id": "4435",
+    "name": "Conqueror Krawmagnon",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 192 - 198"
+  },
+  {
+    "id": "4450",
+    "name": "Summit Polter",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 192 - 198"
+  },
+  {
+    "id": "4312",
+    "name": "Conqueror Krobelle",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 192 - 198"
+  },
+  {
+    "id": "4335",
+    "name": "Wabbit Cavalier",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 192 - 198"
+  },
+  {
+    "id": "4257",
+    "name": "Schisterical",
+    "family_name": "Mount Zinit",
+    "level": "Lvl 194 - 198"
+  },
+  {
+    "id": "5135",
+    "name": "Bubourg Mage",
+    "family_name": "Sadida Kingdom",
+    "level": "Lvl 194 - 198"
+  },
+  {
+    "id": "4209",
+    "name": "Soft-Boiled Dreggon",
+    "family_name": "Mount Zinit",
+    "level": "Lvl 194 - 198"
+  },
+  {
+    "id": "5047",
+    "name": "Blightrocioius",
+    "family_name": "Pandalucia",
+    "level": "Lvl 194 - 198"
+  },
+  {
+    "id": "5053",
+    "name": "Pandit Ghost",
+    "family_name": "Pandalucia",
+    "level": "Lvl 194 - 198"
+  },
+  {
+    "id": "4188",
+    "name": "Prismatic Wyrmling",
+    "family_name": "Ultimate Bosses",
+    "level": "Lvl 195"
+  },
+  {
+    "id": "4218",
+    "name": "Biceggphalous Dreggon",
+    "family_name": "Mount Zinit",
+    "level": "Lvl 198 - 203"
+  },
+  {
+    "id": "5138",
+    "name": "Dominant Bubourg",
+    "family_name": "Sadida Kingdom",
+    "level": "Lvl 198 - 203"
+  },
+  {
+    "id": "4328",
+    "name": "Eyeliner the Badgerager",
+    "family_name": "Mount Zinit",
+    "level": "Lvl 198 - 203"
+  },
+  {
+    "id": "4331",
+    "name": "War'Hg, Guardian of Dor'Mor",
+    "family_name": "Mount Zinit",
+    "level": "Lvl 198 - 203"
+  },
+  {
+    "id": "5050",
+    "name": "Blightoccult",
+    "family_name": "Pandalucia",
+    "level": "Lvl 198 - 203"
+  },
+  {
+    "id": "5057",
+    "name": "Dominant Pandala Ghost",
+    "family_name": "Pandalucia",
+    "level": "Lvl 198 - 203"
+  },
+  {
+    "id": "4262",
+    "name": "Schistophrenic",
+    "family_name": "Mount Zinit",
+    "level": "Lvl 198 - 203"
+  },
+  {
+    "id": "4795",
+    "name": "Flying Spitter",
+    "family_name": "Ultimate Bosses",
+    "level": "Lvl 200"
+  },
+  {
+    "id": "5099",
+    "name": "Thirster",
+    "family_name": "Pandalucia",
+    "level": "Lvl 200"
+  },
+  {
+    "id": "5100",
+    "name": "Tanuki-Chan",
+    "family_name": "Pandalucia",
+    "level": "Lvl 200"
+  },
+  {
+    "id": "5155",
+    "name": "Count Harebourg",
+    "family_name": "Sadida Kingdom",
+    "level": "Lvl 200"
+  },
+  {
+    "id": "5101",
+    "name": "Yokai Firefoux",
+    "family_name": "Pandalucia",
+    "level": "Lvl 200"
+  },
+  {
+    "id": "5311",
+    "name": "Donalangelo",
+    "family_name": "",
+    "level": "Lvl 200"
+  },
+  {
+    "id": "4419",
+    "name": "Krosmic Gobball",
+    "family_name": "Mount Zinit",
+    "level": "Lvl 200"
+  },
+  {
+    "id": "5102",
+    "name": "Tanukouï San",
+    "family_name": "Pandalucia",
+    "level": "Lvl 200"
+  },
+  {
+    "id": "5165",
+    "name": "Aguabrial",
+    "family_name": "Mount Zinit",
+    "level": "Lvl 200"
+  },
+  {
+    "id": "4791",
+    "name": "Shadofang's Shadow",
+    "family_name": "Ultimate Bosses",
+    "level": "Lvl 200"
+  },
+  {
+    "id": "4796",
+    "name": "Destroyer",
+    "family_name": "Ultimate Bosses",
+    "level": "Lvl 200"
+  },
+  {
+    "id": "4260",
+    "name": "Ashdragon",
+    "family_name": "Mount Zinit",
+    "level": "Lvl 203 - 208"
+  },
+  {
+    "id": "4318",
+    "name": "Badgwitch the Furiox",
+    "family_name": "Mount Zinit",
+    "level": "Lvl 203 - 208"
+  },
+  {
+    "id": "4400",
+    "name": "Ancient Egg",
+    "family_name": "Mount Zinit",
+    "level": "Lvl 203 - 208"
+  },
+  {
+    "id": "5058",
+    "name": "Mighty Blighty the Blightopard Ghost",
+    "family_name": "Pandalucia",
+    "level": "Lvl 203 - 208"
+  },
+  {
+    "id": "4261",
+    "name": "Freonctuous the Gaspacho",
+    "family_name": "Mount Zinit",
+    "level": "Lvl 203 - 208"
+  },
+  {
+    "id": "4327",
+    "name": "Sor'Hon, Lord of the Flame",
+    "family_name": "Mount Zinit",
+    "level": "Lvl 203 - 208"
+  },
+  {
+    "id": "4664",
+    "name": "Crystal-Heart Agony",
+    "family_name": "Mineral Tower",
+    "level": "Lvl 203 - 208"
+  },
+  {
+    "id": "5052",
+    "name": "Blightogre",
+    "family_name": "Pandalucia",
+    "level": "Lvl 203 - 208"
+  },
+  {
+    "id": "5137",
+    "name": "Bubotron Bubourg",
+    "family_name": "Sadida Kingdom",
+    "level": "Lvl 203 - 208"
+  },
+  {
+    "id": "5168",
+    "name": "Uto-Pike",
+    "family_name": "Osamosa",
+    "level": "Lvl 203 - 207"
+  },
+  {
+    "id": "4220",
+    "name": "Minibuliette",
+    "family_name": "Mount Zinit",
+    "level": "Lvl 203 - 208"
+  },
+  {
+    "id": "4330",
+    "name": "Sore'Hooman the Priest of the Flame",
+    "family_name": "Mount Zinit",
+    "level": "Lvl 203 - 208"
+  },
+  {
+    "id": "5059",
+    "name": "Ghost Tanukouï San",
+    "family_name": "Pandalucia",
+    "level": "Lvl 203 - 208"
+  },
+  {
+    "id": "5139",
+    "name": "Superb Owl",
+    "family_name": "Sadida Kingdom",
+    "level": "Lvl 203 - 208"
+  },
+  {
+    "id": "5175",
+    "name": "Carapudgeon",
+    "family_name": "Osamosa",
+    "level": "Lvl 203 - 207"
+  },
+  {
+    "id": "5187",
+    "name": "Prefoxterous",
+    "family_name": "Osamosa",
+    "level": "Lvl 203 - 207"
+  },
+  {
+    "id": "5246",
+    "name": "Chocguin",
+    "family_name": "Pingwins",
+    "level": "Lvl 203 - 207"
+  },
+  {
+    "id": "4329",
+    "name": "Uhu the Honeyed",
+    "family_name": "Mount Zinit",
+    "level": "Lvl 203 - 208"
+  },
+  {
+    "id": "5179",
+    "name": "Cwabplaner",
+    "family_name": "Osamosa",
+    "level": "Lvl 203 - 207"
+  },
+  {
+    "id": "5051",
+    "name": "Blightomeric the Poet",
+    "family_name": "Pandalucia",
+    "level": "Lvl 203 - 208"
+  },
+  {
+    "id": "5234",
+    "name": "Torturbulent",
+    "family_name": "Scramshells",
+    "level": "Lvl 203 - 207"
+  },
+  {
+    "id": "5240",
+    "name": "Kung Fursa",
+    "family_name": "Plantiguards",
+    "level": "Lvl 203 - 207"
+  },
+  {
+    "id": "5186",
+    "name": "Wolfix",
+    "family_name": "Osamosa",
+    "level": "Lvl 205 - 209"
+  },
+  {
+    "id": "5233",
+    "name": "Chamelehombre",
+    "family_name": "Scramshells",
+    "level": "Lvl 205 - 209"
+  },
+  {
+    "id": "5245",
+    "name": "Gluguin",
+    "family_name": "Pingwins",
+    "level": "Lvl 205 - 209"
+  },
+  {
+    "id": "5181",
+    "name": "Pinsular",
+    "family_name": "Osamosa",
+    "level": "Lvl 205 - 209"
+  },
+  {
+    "id": "5169",
+    "name": "Apessassin",
+    "family_name": "Osamosa",
+    "level": "Lvl 205 - 209"
+  },
+  {
+    "id": "5174",
+    "name": "Tattoorlwind",
+    "family_name": "Osamosa",
+    "level": "Lvl 205 - 209"
+  },
+  {
+    "id": "5225",
+    "name": "Scythescraper",
+    "family_name": "Environmental Quests",
+    "level": "Lvl 205"
+  },
+  {
+    "id": "5239",
+    "name": "Ursawollen",
+    "family_name": "Plantiguards",
+    "level": "Lvl 205 - 209"
+  },
+  {
+    "id": "5167",
+    "name": "Antlerus",
+    "family_name": "Osamosa",
+    "level": "Lvl 209 - 213"
+  },
+  {
+    "id": "5180",
+    "name": "Pincision",
+    "family_name": "Osamosa",
+    "level": "Lvl 209 - 213"
+  },
+  {
+    "id": "5232",
+    "name": "Dragonorrhea",
+    "family_name": "Scramshells",
+    "level": "Lvl 209 - 213"
+  },
+  {
+    "id": "5173",
+    "name": "Castorbital",
+    "family_name": "Osamosa",
+    "level": "Lvl 209 - 213"
+  },
+  {
+    "id": "5238",
+    "name": "Illursary",
+    "family_name": "Plantiguards",
+    "level": "Lvl 209 - 213"
+  },
+  {
+    "id": "5244",
+    "name": "Lazeguin",
+    "family_name": "Pingwins",
+    "level": "Lvl 209 - 213"
+  },
+  {
+    "id": "5185",
+    "name": "Tigray",
+    "family_name": "Osamosa",
+    "level": "Lvl 209 - 213"
+  },
+  {
+    "id": "5248",
+    "name": "Dominant Pingwin",
+    "family_name": "Pingwins",
+    "level": "Lvl 213 - 218"
+  },
+  {
+    "id": "5236",
+    "name": "Dominant Scramshell",
+    "family_name": "Scramshells",
+    "level": "Lvl 213 - 218"
+  },
+  {
+    "id": "5177",
+    "name": "Dominant Sunsloth",
+    "family_name": "Osamosa",
+    "level": "Lvl 213 - 218"
+  },
+  {
+    "id": "5189",
+    "name": "Dominant Tundrazor",
+    "family_name": "Osamosa",
+    "level": "Lvl 213 - 218"
+  },
+  {
+    "id": "5171",
+    "name": "Dominant Vandalophrenic",
+    "family_name": "Osamosa",
+    "level": "Lvl 213 - 218"
+  },
+  {
+    "id": "5183",
+    "name": "Dominant Crabstacean",
+    "family_name": "Osamosa",
+    "level": "Lvl 213 - 218"
+  },
+  {
+    "id": "5242",
+    "name": "Dominant Plantiguard",
+    "family_name": "Plantiguards",
+    "level": "Lvl 213 - 218"
+  },
+  {
+    "id": "5190",
+    "name": "Imbuffullo the Egotistical",
+    "family_name": "Osamosa",
+    "level": "Lvl 218 - 223"
+  },
+  {
+    "id": "5229",
+    "name": "Agony, Livid Necromancer",
+    "family_name": "Mineral Tower",
+    "level": "Lvl 218 - 223"
+  },
+  {
+    "id": "5306",
+    "name": "Rushu",
+    "family_name": "Ultimate Bosses",
+    "level": "Lvl 218 - 222"
+  },
+  {
+    "id": "5172",
+    "name": "Vandalopia the Unseeing",
+    "family_name": "Osamosa",
+    "level": "Lvl 218 - 223"
+  },
+  {
+    "id": "5178",
+    "name": "Scorprank the Joker",
+    "family_name": "Osamosa",
+    "level": "Lvl 218 - 223"
+  },
+  {
+    "id": "5235",
+    "name": "Tortumult",
+    "family_name": "Scramshells",
+    "level": "Lvl 218 - 223"
+  },
+  {
+    "id": "5237",
+    "name": "Torturpid the Vile",
+    "family_name": "Scramshells",
+    "level": "Lvl 218 - 223"
+  },
+  {
+    "id": "5282",
+    "name": "Chrysavoid",
+    "family_name": "Voidivions",
+    "level": "Lvl 218 - 222"
+  },
+  {
+    "id": "5170",
+    "name": "Hogincubus",
+    "family_name": "Osamosa",
+    "level": "Lvl 218 - 223"
+  },
+  {
+    "id": "5184",
+    "name": "Pinsurbordinate the Rebel",
+    "family_name": "Osamosa",
+    "level": "Lvl 218 - 223"
+  },
+  {
+    "id": "5247",
+    "name": "Sumorse",
+    "family_name": "Pingwins",
+    "level": "Lvl 218 - 223"
+  },
+  {
+    "id": "5249",
+    "name": "Morsnivel the Tearful",
+    "family_name": "Pingwins",
+    "level": "Lvl 218 - 223"
+  },
+  {
+    "id": "5288",
+    "name": "Condemner",
+    "family_name": "Horridemons",
+    "level": "Lvl 218 - 222"
+  },
+  {
+    "id": "5176",
+    "name": "Stompion",
+    "family_name": "Osamosa",
+    "level": "Lvl 218 - 223"
+  },
+  {
+    "id": "5182",
+    "name": "Cerebratacean",
+    "family_name": "Osamosa",
+    "level": "Lvl 218 - 223"
+  },
+  {
+    "id": "5188",
+    "name": "Flamboyffalo",
+    "family_name": "Osamosa",
+    "level": "Lvl 218 - 223"
+  },
+  {
+    "id": "5276",
+    "name": "Virescent",
+    "family_name": "Phytomorphs",
+    "level": "Lvl 218 - 222"
+  },
+  {
+    "id": "5294",
+    "name": "CeEvroaint",
+    "family_name": "Streyes",
+    "level": "Lvl 218 - 222"
+  },
+  {
+    "id": "5300",
+    "name": "Master of Darkness",
+    "family_name": "Destroyers",
+    "level": "Lvl 218 - 222"
+  },
+  {
+    "id": "5241",
+    "name": "Bearkneck",
+    "family_name": "Plantiguards",
+    "level": "Lvl 218 - 223"
+  },
+  {
+    "id": "5243",
+    "name": "Scoobidursa the Gluttonursa",
+    "family_name": "Plantiguards",
+    "level": "Lvl 218 - 223"
+  },
+  {
+    "id": "5287",
+    "name": "Dismembering Raptor",
+    "family_name": "Horridemons",
+    "level": "Lvl 220 - 224"
+  },
+  {
+    "id": "5281",
+    "name": "Inanite",
+    "family_name": "Voidivions",
+    "level": "Lvl 220 - 224"
+  },
+  {
+    "id": "5293",
+    "name": "Detrevni",
+    "family_name": "Streyes",
+    "level": "Lvl 220 - 224"
+  },
+  {
+    "id": "5275",
+    "name": "Devilshroom",
+    "family_name": "Phytomorphs",
+    "level": "Lvl 220 - 224"
+  },
+  {
+    "id": "5299",
+    "name": "Druidre",
+    "family_name": "Destroyers",
+    "level": "Lvl 220 - 224"
+  },
+  {
+    "id": "5284",
+    "name": "Dominant Voidivion",
+    "family_name": "Voidivions",
+    "level": "Lvl 222 - 226"
+  },
+  {
+    "id": "5274",
+    "name": "Meristenmity",
+    "family_name": "Phytomorphs",
+    "level": "Lvl 224 - 228"
+  },
+  {
+    "id": "5280",
+    "name": "Echivoidea",
+    "family_name": "Voidivions",
+    "level": "Lvl 224 - 228"
+  },
+  {
+    "id": "5286",
+    "name": "Bloodcensor",
+    "family_name": "Horridemons",
+    "level": "Lvl 224 - 228"
+  },
+  {
+    "id": "5290",
+    "name": "Dominant Horridemon",
+    "family_name": "Horridemons",
+    "level": "Lvl 224 - 228"
+  },
+  {
+    "id": "5292",
+    "name": "Reman'haunt",
+    "family_name": "Streyes",
+    "level": "Lvl 224 - 228"
+  },
+  {
+    "id": "5296",
+    "name": "Dominant Streye",
+    "family_name": "Streyes",
+    "level": "Lvl 224 - 228"
+  },
+  {
+    "id": "5298",
+    "name": "Greedo",
+    "family_name": "Destroyers",
+    "level": "Lvl 224 - 228"
+  },
+  {
+    "id": "5302",
+    "name": "Glutonny",
+    "family_name": "Destroyers",
+    "level": "Lvl 228 - 232"
+  },
+  {
+    "id": "5278",
+    "name": "Dominant Phytomorph",
+    "family_name": "Phytomorphs",
+    "level": "Lvl 228 - 233"
+  },
+  {
+    "id": "5305",
+    "name": "Anathar",
+    "family_name": "Localization failed. Error: 418 I'm a teapot.",
+    "level": "Lvl 230"
+  },
+  {
+    "id": "5277",
+    "name": "Vaal'Enthia, Demon Queen",
+    "family_name": "Phytomorphs",
+    "level": "Lvl 233 - 238"
+  },
+  {
+    "id": "5279",
+    "name": "Viil the Incorruptible",
+    "family_name": "Phytomorphs",
+    "level": "Lvl 233 - 238"
+  },
+  {
+    "id": "5285",
+    "name": "Ar'Manthe the Religious",
+    "family_name": "Voidivions",
+    "level": "Lvl 233 - 238"
+  },
+  {
+    "id": "5297",
+    "name": "~`hd#@! the Misunderstood",
+    "family_name": "Streyes",
+    "level": "Lvl 233 - 238"
+  },
+  {
+    "id": "5295",
+    "name": "!@#dh`~",
+    "family_name": "Streyes",
+    "level": "Lvl 233 - 238"
+  },
+  {
+    "id": "5289",
+    "name": "Crateros, Ending Executioner",
+    "family_name": "Horridemons",
+    "level": "Lvl 233 - 238"
+  },
+  {
+    "id": "5301",
+    "name": "K'abah'al, Guardian of the Route of the Dead",
+    "family_name": "Destroyers",
+    "level": "Lvl 233 - 238"
+  },
+  {
+    "id": "5303",
+    "name": "Constant the Eternal",
+    "family_name": "Destroyers",
+    "level": "Lvl 233 - 238"
+  },
+  {
+    "id": "5283",
+    "name": "Ar'Nan, Omen of the Void",
+    "family_name": "Voidivions",
+    "level": "Lvl 233 - 238"
+  },
+  {
+    "id": "5291",
+    "name": "Archibald the Frightful",
+    "family_name": "Horridemons",
+    "level": "Lvl 233 - 238"
+  },
+  {
+    "id": "1986",
+    "name": "Excarnus",
+    "family_name": "Ultimate Bosses",
+    "level": "Lvl 480"
+  },
+  {
+    "id": "1987",
+    "name": "Milkar the Moowolf",
+    "family_name": "Ultimate Bosses",
+    "level": "Lvl 540"
+  },
+  {
+    "id": "1988",
+    "name": "Black Crow",
+    "family_name": "Ultimate Bosses",
+    "level": "Lvl 630"
+  },
+  {
+    "id": "42",
+    "name": "Magmog the Gobbalrog",
+    "family_name": "Ultimate Bosses",
+    "level": "Lvl 690"
+  },
+  {
+    "id": "2430",
+    "name": "Dragon Pig",
+    "family_name": "Ultimate Bosses",
+    "level": "Lvl 750"
+  }
+]
