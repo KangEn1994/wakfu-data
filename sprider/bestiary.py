@@ -55,7 +55,8 @@ def get_bestiarys_detail(browser, save_path="..\\data\\bestiary_detail.json", ty
 
 
         result = bestiarys_list
-        for each_bestiary in bestiarys_list:
+        for index, each_bestiary in enumerate(bestiarys_list):
+            print("index={0}".format(index))
             if "png_path" in each_bestiary:
                 continue
             each_name = "-".join([e.split('\'')[0].lower() for e in each_bestiary["name"].split(" ")])
