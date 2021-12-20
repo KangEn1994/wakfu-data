@@ -17,7 +17,8 @@ class Bestiary(BaseModel):
     }
 
     # 表结构
-    name = Column(String(64))    # 怪物名称
+    en_name = Column(String(64))    # 怪物名称  英文
+    cn_name = Column(String(128))    # 怪物名称  中文
     family_id = Column(Integer)  # 家族id
     min_level = Column(Integer)   # 最低等级
     max_level = Column(Integer)   # 最高等级
@@ -43,7 +44,7 @@ if __name__ == "__main__":
         'mysql+mysqlconnector://{0}:{1}@{2}:{3}/{4}'.format(
             MYSQL_USER, MYSQL_PASSWORD, MYSQL_HOST, MYSQL_PORT, MYSQL_DATABASE))
     # engine = create_engine(
-    #     'mysql+mysqlconnector://shangjian:6vb0qhqifBUKaVXJ@rm-2ze3450z16n1c2msxco.mysql.rds.aliyuncs.com:3306/yifangda')
+    #     'mysql+mysqlconnector://xxxxx:3306/xxxx')
     # 创建DBSession类型:
     # DBSession = sessionmaker(bind=engine)
     # session1 = DBSession()
